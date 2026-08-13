@@ -60,7 +60,10 @@ The experiment runners were originally executed in Google Colab and contain pack
 
 ## Reproducibility artifact
 
-A version-specific Zenodo DOI will be added here after the immutable submission artifact is deposited.
+The immutable reproducibility artifact corresponding to version
+1.0.0 is archived on Zenodo:
+
+**DOI:** https://doi.org/10.5281/zenodo.21918636
 
 ## Development repository
 
