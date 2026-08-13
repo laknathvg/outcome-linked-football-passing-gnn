@@ -746,7 +746,10 @@ Publication rule
 All manuscript values must be regenerated from results_final.csv and the paired prediction file.
 Legacy notebook percentages must not be mixed with this implementation.
 """
-    (PROJECT_ROOT / "README.md").write_text(readme, encoding="utf-8")
+    (OUTPUT_DIR / "README_EXPERIMENT1.txt").write_text(
+    readme,
+    encoding="utf-8"
+)
 
     # Create checksums for files that will be packaged, excluding cache and the checksum file itself.
     excluded_parts = {"__pycache__", ".pytest_cache", ".git", "cache"}
