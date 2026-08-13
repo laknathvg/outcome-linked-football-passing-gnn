@@ -1,0 +1,18 @@
+[
+  "home_roll_goals_for",
+  "home_roll_goals_against",
+  "home_roll_shots_for",
+  "home_roll_shots_against",
+  "home_roll_shots_on_target_for",
+  "home_roll_shots_on_target_against",
+  "home_roll_corners_for",
+  "home_roll_corners_against",
+  "away_roll_goals_for",
+  "away_roll_goals_against",
+  "away_roll_shots_for",
+  "away_roll_shots_against",
+  "away_roll_shots_on_target_for",
+  "away_roll_shots_on_target_against",
+  "away_roll_corners_for",
+  "away_roll_corners_against"
+]

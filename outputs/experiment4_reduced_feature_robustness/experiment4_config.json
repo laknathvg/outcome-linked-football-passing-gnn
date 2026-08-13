@@ -1,0 +1,46 @@
+{
+  "experiment": "Experiment 4 - reduced-feature robustness",
+  "scientific_question": "Does the Hybrid retain useful performance after removing outcome-adjacent shot count, shot xG sum, and key-pass indicator features?",
+  "football_question": "If the model is no longer told how many shots the team took, how much xG it created, or which passes directly created shots, does the passing/history representation still help?",
+  "removed_features": [
+    "node: shot_count",
+    "node: shot_xg_sum",
+    "edge: key_pass_indicator"
+  ],
+  "retained_features": [
+    "node: completed_pass_count",
+    "node: ball_recovery_count",
+    "edge: pass_length",
+    "edge: pass_angle"
+  ],
+  "frozen_protocol": {
+    "eligible_n": 757,
+    "paired_outer_test_n": 454,
+    "outer_protocol": "40% initial train rolling origin with 5 future test folds",
+    "team_embargo_matches": 3,
+    "same_outer_folds": true,
+    "same_inner_folds": true,
+    "same_training_seeds": true,
+    "same_graph_topology": true,
+    "same_positional_pooling": true,
+    "same_optimizer_and_training": true
+  },
+  "models": [
+    "A-MLP (frozen Experiment 1 reference)",
+    "B-GNN-full (frozen Experiment 1 reference)",
+    "C-Hybrid-full (frozen Experiment 1 reference)",
+    "B-GNN-reduced",
+    "C-Hybrid-reduced",
+    "D-Aggregate-full",
+    "D-Aggregate-reduced"
+  ],
+  "predeclared_comparisons": [
+    "C-Hybrid-reduced vs A-MLP",
+    "C-Hybrid-reduced vs D-Aggregate-reduced",
+    "C-Hybrid-full vs C-Hybrid-reduced",
+    "B-GNN-full vs B-GNN-reduced",
+    "D-Aggregate-full vs D-Aggregate-reduced"
+  ],
+  "bootstrap_samples": 10000,
+  "bootstrap_seed": 2026
+}

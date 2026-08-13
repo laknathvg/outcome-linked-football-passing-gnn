@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.env
+*.key
+credentials.json
+
+# Do not commit downloaded/raw event caches
+data/cache/
+data/raw/
+raw_data/
+statsbomb_raw/
+
+# Local/generated packaging
+*.zip
+build/
+dist/

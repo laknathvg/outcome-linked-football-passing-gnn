@@ -1,0 +1,23 @@
+{
+  "experiment": "Experiment 3 - positional pooling vs global mean pooling",
+  "scientific_question": "Does role-aware positional pooling outperform global mean pooling under the frozen Elite protocol?",
+  "primary_comparison": "C-Hybrid-positional vs C-Hybrid-globalmean",
+  "supporting_comparison": "B-GNN-positional vs B-GNN-globalmean",
+  "frozen_protocol": {
+    "eligible_n": 757,
+    "paired_outer_test_n": 454,
+    "outer_protocol": "40% initial train rolling origin with 5 future test folds",
+    "team_embargo_matches": 3,
+    "same_folds": true,
+    "same_training_seeds": true,
+    "same_features": true,
+    "same_graph_topology": true,
+    "same_optimizer_and_training": true
+  },
+  "manipulated_component": "graph-level pooling only",
+  "positional_pooling": "role-specific global-add pooling for FW/MF/DF/GK followed by concatenation",
+  "control_pooling": "global mean pooling across all 11 player nodes",
+  "capacity_note": "This is a pooling ablation, not a parameter-matched capacity control; parameter counts are reported explicitly.",
+  "bootstrap_samples": 10000,
+  "bootstrap_seed": 2026
+}

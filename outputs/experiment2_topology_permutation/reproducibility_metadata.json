@@ -1,0 +1,15 @@
+{
+  "artifact": "Experiment 2 matched destination-permutation topology control",
+  "created_utc": "2026-08-07T17:07:12.745560+00:00",
+  "eligible_cohort_n": 757,
+  "paired_outer_test_n": 454,
+  "permutation_seeds": [
+    1,
+    2,
+    3
+  ],
+  "swap_multiplier": 10,
+  "training_seed_source": "frozen Experiment 1 fold assignments/selected epochs",
+  "observed_predictions_source": "frozen Experiment 1 B-GNN-full OOF predictions",
+  "bootstrap_samples": 10000
+}

@@ -1,0 +1,5 @@
+model,trainable_parameters
+B-GNN-positional,75298
+B-GNN-globalmean,50722
+C-Hybrid-positional,59333
+C-Hybrid-globalmean,47045

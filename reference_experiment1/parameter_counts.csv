@@ -1,0 +1,4 @@
+model,trainable_parameters
+A-MLP,610
+B-GNN-full,75298
+C-Hybrid-full,59333

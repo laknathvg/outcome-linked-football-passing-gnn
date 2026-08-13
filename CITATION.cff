@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software or reproducibility artifact, please cite the associated research."
+title: "Outcome-Linked Post-Match Classification of Football Passing Networks Using a Hybrid Late-Fusion Graph Neural Network"
+type: software
+version: 1.0.0
+authors:
+  - family-names: Gunawardhana
+    given-names: Laknath
+  - family-names: Aponso
+    given-names: Achala
+  - family-names: Edirisooriya
+    given-names: Maninda
+  - family-names: Chandradeva
+    given-names: Lakshika
+  - family-names: Aldraimli
+    given-names: Mahmoud
+  - family-names: Krishnarajah
+    given-names: Naomi
+repository-code: "https://github.com/laknathvg/outcome-linked-football-passing-gnn"

@@ -1,0 +1,33 @@
+{
+  "experiment": "Experiment 2 - observed topology vs destination-permuted topology",
+  "scientific_question": "Does observed passer-recipient topology outperform a matched topology-disrupted graph representation?",
+  "observed_reference": "Frozen B-GNN-full predictions from Experiment 1",
+  "permutation_seeds": [
+    1,
+    2,
+    3
+  ],
+  "swap_multiplier": 10,
+  "bootstrap_samples": 10000,
+  "bootstrap_seed": 2026,
+  "training_seed_policy": "Reuse exact fold-specific Experiment 1 seed",
+  "topology_control": {
+    "changes": [
+      "edge destinations only"
+    ],
+    "preserves": [
+      "node features",
+      "edge count",
+      "edge source vector",
+      "source out-degree",
+      "destination multiset",
+      "destination in-degree",
+      "edge feature rows",
+      "role IDs",
+      "graph labels",
+      "no synthetic event-level self-passes"
+    ],
+    "label_independent": true,
+    "fold_independent": true
+  }
+}

@@ -1,0 +1,18 @@
+competition_id,competition_name,eligible_n,initial_end_date,future_distinct_dates,requested_folds,folds_supported,oof_eligible,oof_exclusion_reason
+2,Premier League,357,2015-12-19,55,5,5,True,
+7,Ligue 1,367,2015-12-20,96,5,5,True,
+9,1. Bundesliga,12,2024-03-03,7,5,0,False,embargo_removed_all_training_rows_fold_1
+11,La Liga,757,2015-10-24,251,5,5,True,
+12,Serie A,350,2016-01-05,54,5,5,True,
+37,FA Women's Super League,385,2020-02-12,87,5,5,True,
+43,FIFA World Cup,66,2022-11-22,18,5,5,True,
+49,NWSL,136,2023-06-04,42,5,5,True,
+53,UEFA Women's Euro,32,2025-07-05,15,5,0,False,embargo_removed_all_training_rows_fold_1
+55,UEFA Euro,52,2024-06-17,18,5,0,False,embargo_removed_all_training_rows_fold_1
+72,Women's World Cup,49,2023-07-23,18,5,0,False,embargo_removed_all_training_rows_fold_1
+131,Serie A Women,115,2024-01-20,34,5,5,True,
+135,Frauen Bundesliga,114,2024-01-28,41,5,5,True,
+182,Liga F,216,2024-01-27,37,5,5,True,
+223,Copa America,8,2024-07-07,4,5,4,False,insufficient_future_dates_for_five_fold_protocol
+1238,Indian Super league,66,2022-01-14,37,5,5,True,
+1267,African Cup of Nations,16,2024-01-30,5,5,0,False,embargo_removed_all_training_rows_fold_1

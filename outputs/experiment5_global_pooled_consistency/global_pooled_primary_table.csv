@@ -1,0 +1,5 @@
+cohort,protocol,model,fold,seed,n,accuracy,balanced_accuracy,macro_f1,win_precision,win_recall,roc_auc,tn,fp,fn,tp,scope
+global,global_competition_aware_pooled_rolling_origin,A-MLP,pooled,multiple_fold_specific,1745,0.6750716332378224,0.6651946645053464,0.6654453273118464,0.6732824427480916,0.5554156171284634,0.7306361856934368,737,214,353,441,pooled
+global,global_competition_aware_pooled_rolling_origin,A-XGB,pooled,multiple_fold_specific,1745,0.6309455587392551,0.620864422177901,0.6202388773090888,0.6139817629179332,0.5088161209068011,0.6961080342314996,697,254,390,404,pooled
+global,global_competition_aware_pooled_rolling_origin,B-GNN-full,pooled,multiple_fold_specific,1745,0.6756446991404012,0.6660323085602586,0.6663664763284267,0.6727272727272727,0.5591939546599496,0.72678500954848,735,216,350,444,pooled
+global,global_competition_aware_pooled_rolling_origin,C-Hybrid-full,pooled,multiple_fold_specific,1745,0.7065902578796561,0.7041957690035943,0.7041957690035943,0.6775818639798489,0.6775818639798489,0.771519837265294,695,256,256,538,pooled

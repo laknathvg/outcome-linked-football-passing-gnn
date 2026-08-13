@@ -1,0 +1,9 @@
+experiment,comparison,difference_pp,ci_lower_pp,ci_upper_pp,paired_n,mcnemar_p,inference,difference_display,ci_display
+Exp. 1,Hybrid − historical MLP,3.2019537119395647,-0.86797758214555,7.285465445202891,454,0.137367971355652,Not statistically established,+3.20,"[-0.87, +7.29]"
+Exp. 2,Observed topology − mean permuted,-2.6884488735282264,-5.78112230266277,0.35684061131188,454,,No observed-topology advantage,-2.69,"[-5.78, +0.36]"
+Exp. 3,Positional − global mean pooling,4.122362652555167,-0.09969592347417999,8.23682273469604,454,0.1641085991749742,Not statistically established,+4.12,"[-0.10, +8.24]"
+Exp. 4,Reduced Hybrid − historical MLP,-2.9302427615583992,-6.85715038950029,0.9699108152272901,454,0.4484890566121636,No retained Hybrid advantage,-2.93,"[-6.86, +0.97]"
+Exp. 4,Full Hybrid − reduced Hybrid,6.132196473497964,1.9944179265493502,10.39309830284685,454,0.0200850544026517,Statistically supported,+6.13,"[+1.99, +10.39]"
+Exp. 4,Reduced Hybrid − reduced aggregate,6.771377834610326,2.58272392001123,11.07869714067298,454,0.0080029010510406,Statistically supported,+6.77,"[+2.58, +11.08]"
+Exp. 5,Hybrid − historical MLP,3.875044169174791,1.57115963334277,6.15857444540275,1745,0.0144312250736863,Statistically supported,+3.88,"[+1.57, +6.16]"
+Exp. 5,Hybrid − graph-only GNN,3.7829292675167543,1.7872527861476701,5.83297747618931,1745,0.0081705424705426,Statistically supported,+3.78,"[+1.79, +5.83]"

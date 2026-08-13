@@ -1,0 +1,56 @@
+competition_id,competition_name,outer_train_n,raw_inner_train_n,inner_train_after_embargo_n,inner_validation_n,validation_start_date,status,fold
+2,Premier League,112,87,57,25,2015-11-07,chronological_validation,1
+7,Ligue 1,118,90,57,28,2015-11-21,chronological_validation,1
+11,La Liga,251,200,134,51,2015-05-17,chronological_validation,1
+12,Serie A,108,82,50,26,2015-11-08,chronological_validation,1
+37,FA Women's Super League,132,102,83,30,2019-10-27,chronological_validation,1
+43,FIFA World Cup,1,1,1,0,,training_only_small_partition,1
+49,NWSL,34,27,9,7,2023-05-07,chronological_validation,1
+131,Serie A Women,31,22,5,9,2023-11-19,chronological_validation,1
+135,Frauen Bundesliga,28,28,28,0,,training_only_after_embargo_guard,1
+182,Liga F,62,48,24,14,2023-11-25,chronological_validation,1
+1238,Indian Super league,11,11,11,0,,training_only_small_partition,1
+2,Premier League,161,127,97,34,2015-12-12,chronological_validation,2
+7,Ligue 1,185,148,118,37,2016-01-08,chronological_validation,2
+11,La Liga,417,333,284,84,2015-12-06,chronological_validation,2
+12,Serie A,159,123,91,36,2015-12-13,chronological_validation,2
+37,FA Women's Super League,184,146,122,38,2020-02-12,chronological_validation,2
+43,FIFA World Cup,2,2,2,0,,training_only_small_partition,2
+49,NWSL,50,38,19,12,2023-05-21,chronological_validation,2
+131,Serie A Women,45,35,20,10,2023-12-16,chronological_validation,2
+135,Frauen Bundesliga,42,33,13,9,2023-12-10,chronological_validation,2
+182,Liga F,95,74,48,21,2024-01-07,chronological_validation,2
+1238,Indian Super league,18,18,18,0,,training_only_after_embargo_guard,2
+2,Premier League,210,167,137,43,2016-01-02,chronological_validation,3
+7,Ligue 1,238,189,157,49,2016-02-03,chronological_validation,3
+11,La Liga,550,439,391,111,2016-02-20,chronological_validation,3
+12,Serie A,200,159,129,41,2016-01-16,chronological_validation,3
+37,FA Women's Super League,224,177,152,47,2020-11-08,chronological_validation,3
+43,FIFA World Cup,8,8,8,0,,training_only_small_partition,3
+49,NWSL,68,54,33,14,2023-06-05,chronological_validation,3
+131,Serie A Women,60,47,31,13,2024-01-21,chronological_validation,3
+135,Frauen Bundesliga,54,43,24,11,2024-01-27,chronological_validation,3
+182,Liga F,128,102,76,26,2024-02-10,chronological_validation,3
+1238,Indian Super league,26,20,4,6,2022-01-07,chronological_validation,3
+2,Premier League,256,197,167,59,2016-01-23,chronological_validation,4
+7,Ligue 1,294,235,201,59,2016-03-05,chronological_validation,4
+11,La Liga,578,462,414,116,2016-03-02,chronological_validation,4
+12,Serie A,240,191,159,49,2016-02-03,chronological_validation,4
+37,FA Women's Super League,275,220,196,55,2021-03-07,chronological_validation,4
+43,FIFA World Cup,13,13,13,0,,training_only_after_embargo_guard,4
+49,NWSL,86,68,49,18,2023-06-24,chronological_validation,4
+131,Serie A Women,71,55,40,16,2024-02-03,chronological_validation,4
+135,Frauen Bundesliga,66,51,32,15,2024-02-04,chronological_validation,4
+182,Liga F,150,120,95,30,2024-03-09,chronological_validation,4
+1238,Indian Super league,33,26,10,7,2022-01-14,chronological_validation,4
+2,Premier League,285,227,197,58,2016-02-13,chronological_validation,5
+7,Ligue 1,303,241,206,62,2016-03-06,chronological_validation,5
+11,La Liga,623,495,446,128,2016-03-19,chronological_validation,5
+12,Serie A,280,223,191,57,2016-02-21,chronological_validation,5
+37,FA Women's Super League,317,250,224,67,2023-10-01,chronological_validation,5
+43,FIFA World Cup,15,15,15,0,,training_only_after_embargo_guard,5
+49,NWSL,99,79,59,20,2023-07-03,chronological_validation,5
+131,Serie A Women,87,69,53,18,2024-02-15,chronological_validation,5
+135,Frauen Bundesliga,78,61,42,17,2024-02-17,chronological_validation,5
+182,Liga F,168,132,105,36,2024-03-17,chronological_validation,5
+1238,Indian Super league,41,32,14,9,2022-01-25,chronological_validation,5

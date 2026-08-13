@@ -1,0 +1,886 @@
+match_id,date,competition_id,competition_name,season_id,season_name,home_team,away_team
+3888711,1971-06-02,16,Champions League,276,1970/1971,Ajax,Panathinaikos
+3750235,1972-05-31,16,Champions League,71,1971/1972,Ajax,Inter Milan
+3888706,1973-05-30,16,Champions League,277,1972/1973,Ajax,Juventus
+3888713,1974-02-17,11,La Liga,278,1973/1974,Real Madrid,Barcelona
+3750240,1999-11-23,16,Champions League,76,1999/2000,Fiorentina,Manchester United
+3752619,2004-05-26,16,Champions League,44,2003/2004,AS Monaco,FC Porto
+68353,2004-10-16,11,La Liga,37,2004/2005,Espanyol,Barcelona
+68313,2004-10-24,11,La Liga,37,2004/2005,Barcelona,Osasuna
+68314,2004-12-04,11,La Liga,37,2004/2005,Barcelona,Málaga
+69153,2004-12-11,11,La Liga,37,2004/2005,Albacete,Barcelona
+68315,2004-12-21,11,La Liga,37,2004/2005,Barcelona,Levante UD
+68352,2005-04-17,11,La Liga,37,2004/2005,Barcelona,Getafe
+68316,2005-05-01,11,La Liga,37,2004/2005,Barcelona,Albacete
+2302764,2005-05-25,16,Champions League,37,2004/2005,AC Milan,Liverpool
+68317,2005-10-01,11,La Liga,38,2005/2006,Barcelona,Real Zaragoza
+68318,2005-10-22,11,La Liga,38,2005/2006,Barcelona,Osasuna
+69164,2005-10-26,11,La Liga,38,2005/2006,Barcelona,Málaga
+68339,2005-11-06,11,La Liga,38,2005/2006,Getafe,Barcelona
+68319,2005-11-19,11,La Liga,38,2005/2006,Real Madrid,Barcelona
+68354,2005-11-27,11,La Liga,38,2005/2006,Barcelona,Racing Santander
+68320,2005-12-04,11,La Liga,38,2005/2006,Villarreal,Barcelona
+68321,2005-12-11,11,La Liga,38,2005/2006,Barcelona,Sevilla
+68322,2005-12-17,11,La Liga,38,2005/2006,Cádiz,Barcelona
+68323,2005-12-20,11,La Liga,38,2005/2006,Barcelona,Celta Vigo
+68348,2006-01-07,11,La Liga,38,2005/2006,Espanyol,Barcelona
+68342,2006-01-15,11,La Liga,38,2005/2006,Barcelona,Athletic Club
+68324,2006-01-22,11,La Liga,38,2005/2006,Barcelona,Deportivo Alavés
+68325,2006-01-29,11,La Liga,38,2005/2006,Mallorca,Barcelona
+68350,2006-02-05,11,La Liga,38,2005/2006,Barcelona,Atlético Madrid
+69172,2006-02-18,11,La Liga,38,2005/2006,Barcelona,Real Betis
+68351,2006-02-25,11,La Liga,38,2005/2006,Real Zaragoza,Barcelona
+68326,2006-08-28,11,La Liga,39,2006/2007,Celta Vigo,Barcelona
+68327,2006-09-09,11,La Liga,39,2006/2007,Barcelona,Osasuna
+68340,2006-09-17,11,La Liga,39,2006/2007,Racing Santander,Barcelona
+68328,2006-09-24,11,La Liga,39,2006/2007,Barcelona,Valencia
+68347,2006-09-30,11,La Liga,39,2006/2007,Athletic Club,Barcelona
+68329,2006-10-15,11,La Liga,39,2006/2007,Barcelona,Sevilla
+68330,2006-10-22,11,La Liga,39,2006/2007,Real Madrid,Barcelona
+69174,2006-11-04,11,La Liga,39,2006/2007,RC Deportivo La Coruña,Barcelona
+68331,2006-11-12,11,La Liga,39,2006/2007,Barcelona,Real Zaragoza
+69154,2007-02-11,11,La Liga,39,2006/2007,Barcelona,Racing Santander
+68332,2007-02-18,11,La Liga,39,2006/2007,Valencia,Barcelona
+68333,2007-02-25,11,La Liga,39,2006/2007,Barcelona,Athletic Club
+68334,2007-03-03,11,La Liga,39,2006/2007,Sevilla,Barcelona
+68335,2007-03-10,11,La Liga,39,2006/2007,Barcelona,Real Madrid
+68341,2007-03-17,11,La Liga,39,2006/2007,Recreativo Huelva,Barcelona
+69175,2007-03-31,11,La Liga,39,2006/2007,Barcelona,RC Deportivo La Coruña
+69179,2007-04-07,11,La Liga,39,2006/2007,Real Zaragoza,Barcelona
+69159,2007-04-15,11,La Liga,39,2006/2007,Barcelona,Mallorca
+69155,2007-04-22,11,La Liga,39,2006/2007,Villarreal,Barcelona
+69156,2007-04-29,11,La Liga,39,2006/2007,Barcelona,Levante UD
+69160,2007-05-05,11,La Liga,39,2006/2007,Real Sociedad,Barcelona
+69162,2007-05-13,11,La Liga,39,2006/2007,Barcelona,Real Betis
+69176,2007-05-20,11,La Liga,39,2006/2007,Atlético Madrid,Barcelona
+3750200,2007-05-23,16,Champions League,39,2006/2007,AC Milan,Liverpool
+69157,2007-05-26,11,La Liga,39,2006/2007,Barcelona,Getafe
+69165,2007-06-09,11,La Liga,39,2006/2007,Barcelona,Espanyol
+68336,2007-06-17,11,La Liga,39,2006/2007,Gimnàstic Tarragona,Barcelona
+69180,2007-08-26,11,La Liga,40,2007/2008,Racing Santander,Barcelona
+69169,2007-09-02,11,La Liga,40,2007/2008,Barcelona,Athletic Club
+69148,2007-09-22,11,La Liga,40,2007/2008,Barcelona,Sevilla
+69151,2007-09-29,11,La Liga,40,2007/2008,Levante UD,Barcelona
+69144,2007-10-07,11,La Liga,40,2007/2008,Barcelona,Atlético Madrid
+68364,2007-10-20,11,La Liga,40,2007/2008,Villarreal,Barcelona
+69158,2007-10-28,11,La Liga,40,2007/2008,Barcelona,Almería
+68363,2007-11-01,11,La Liga,40,2007/2008,Real Valladolid,Barcelona
+69166,2007-11-04,11,La Liga,40,2007/2008,Barcelona,Real Betis
+69178,2007-11-10,11,La Liga,40,2007/2008,Getafe,Barcelona
+69184,2007-11-24,11,La Liga,40,2007/2008,Barcelona,Recreativo Huelva
+68356,2007-12-01,11,La Liga,40,2007/2008,Espanyol,Barcelona
+69170,2007-12-09,11,La Liga,40,2007/2008,Barcelona,RC Deportivo La Coruña
+69145,2007-12-15,11,La Liga,40,2007/2008,Valencia,Barcelona
+69173,2008-01-20,11,La Liga,40,2007/2008,Barcelona,Racing Santander
+69181,2008-01-27,11,La Liga,40,2007/2008,Athletic Club,Barcelona
+69187,2008-02-03,11,La Liga,40,2007/2008,Barcelona,Osasuna
+69146,2008-02-09,11,La Liga,40,2007/2008,Sevilla,Barcelona
+69182,2008-02-16,11,La Liga,40,2007/2008,Real Zaragoza,Barcelona
+68360,2008-02-24,11,La Liga,40,2007/2008,Barcelona,Levante UD
+68365,2008-03-01,11,La Liga,40,2007/2008,Atlético Madrid,Barcelona
+68358,2008-04-12,11,La Liga,40,2007/2008,Recreativo Huelva,Barcelona
+68359,2008-04-19,11,La Liga,40,2007/2008,Barcelona,Espanyol
+69141,2008-05-04,11,La Liga,40,2007/2008,Barcelona,Valencia
+68361,2008-05-07,11,La Liga,40,2007/2008,Real Madrid,Barcelona
+68366,2008-05-11,11,La Liga,40,2007/2008,Barcelona,Mallorca
+69186,2008-05-17,11,La Liga,40,2007/2008,Real Murcia CF,Barcelona
+69147,2008-08-31,11,La Liga,41,2008/2009,CD Numancia de Soria,Barcelona
+69215,2008-09-13,11,La Liga,41,2008/2009,Barcelona,Racing Santander
+69138,2008-09-21,11,La Liga,41,2008/2009,Sporting Gijón,Barcelona
+69207,2008-09-24,11,La Liga,41,2008/2009,Barcelona,Real Betis
+69211,2008-09-27,11,La Liga,41,2008/2009,Espanyol,Barcelona
+69212,2008-10-04,11,La Liga,41,2008/2009,Barcelona,Atlético Madrid
+69232,2008-10-25,11,La Liga,41,2008/2009,Barcelona,Almería
+69235,2008-11-01,11,La Liga,41,2008/2009,Málaga,Barcelona
+69279,2008-11-08,11,La Liga,41,2008/2009,Barcelona,Real Valladolid
+69285,2008-11-16,11,La Liga,41,2008/2009,Recreativo Huelva,Barcelona
+69171,2008-11-29,11,La Liga,41,2008/2009,Sevilla,Barcelona
+69149,2008-12-06,11,La Liga,41,2008/2009,Barcelona,Valencia
+69225,2008-12-13,11,La Liga,41,2008/2009,Barcelona,Real Madrid
+69228,2008-12-21,11,La Liga,41,2008/2009,Villarreal,Barcelona
+69230,2009-01-11,11,La Liga,41,2008/2009,Osasuna,Barcelona
+69183,2009-01-17,11,La Liga,41,2008/2009,Barcelona,RC Deportivo La Coruña
+69189,2009-01-24,11,La Liga,41,2008/2009,Barcelona,CD Numancia de Soria
+69209,2009-02-01,11,La Liga,41,2008/2009,Racing Santander,Barcelona
+69231,2009-02-08,11,La Liga,41,2008/2009,Barcelona,Sporting Gijón
+69195,2009-02-14,11,La Liga,41,2008/2009,Real Betis,Barcelona
+69139,2009-02-21,11,La Liga,41,2008/2009,Barcelona,Espanyol
+69185,2009-03-01,11,La Liga,41,2008/2009,Atlético Madrid,Barcelona
+69216,2009-03-07,11,La Liga,41,2008/2009,Barcelona,Athletic Club
+69177,2009-03-15,11,La Liga,41,2008/2009,Almería,Barcelona
+69142,2009-03-22,11,La Liga,41,2008/2009,Barcelona,Málaga
+69273,2009-04-04,11,La Liga,41,2008/2009,Real Valladolid,Barcelona
+69222,2009-04-11,11,La Liga,41,2008/2009,Barcelona,Recreativo Huelva
+69223,2009-04-18,11,La Liga,41,2008/2009,Getafe,Barcelona
+69251,2009-04-25,11,La Liga,41,2008/2009,Valencia,Barcelona
+69249,2009-05-02,11,La Liga,41,2008/2009,Real Madrid,Barcelona
+69217,2009-05-10,11,La Liga,41,2008/2009,Barcelona,Villarreal
+3750201,2009-05-27,16,Champions League,41,2008/2009,Barcelona,Manchester United
+69229,2009-09-12,11,La Liga,21,2009/2010,Getafe,Barcelona
+69292,2009-09-19,11,La Liga,21,2009/2010,Barcelona,Atlético Madrid
+69254,2009-09-22,11,La Liga,21,2009/2010,Racing Santander,Barcelona
+69255,2009-09-26,11,La Liga,21,2009/2010,Málaga,Barcelona
+69256,2009-10-03,11,La Liga,21,2009/2010,Barcelona,Almería
+69252,2009-10-17,11,La Liga,21,2009/2010,Valencia,Barcelona
+69253,2009-10-25,11,La Liga,21,2009/2010,Barcelona,Real Zaragoza
+69277,2009-10-31,11,La Liga,21,2009/2010,Osasuna,Barcelona
+69250,2009-11-07,11,La Liga,21,2009/2010,Barcelona,Mallorca
+69288,2009-11-21,11,La Liga,21,2009/2010,Athletic Club,Barcelona
+69262,2009-11-29,11,La Liga,21,2009/2010,Barcelona,Real Madrid
+69267,2009-12-02,11,La Liga,21,2009/2010,Xerez,Barcelona
+69218,2009-12-05,11,La Liga,21,2009/2010,RC Deportivo La Coruña,Barcelona
+69219,2010-01-10,11,La Liga,21,2009/2010,Tenerife,Barcelona
+69243,2010-01-16,11,La Liga,21,2009/2010,Barcelona,Sevilla
+69210,2010-01-23,11,La Liga,21,2009/2010,Real Valladolid,Barcelona
+69220,2010-01-30,11,La Liga,21,2009/2010,Sporting Gijón,Barcelona
+69240,2010-02-06,11,La Liga,21,2009/2010,Barcelona,Getafe
+69237,2010-02-14,11,La Liga,21,2009/2010,Atlético Madrid,Barcelona
+69233,2010-02-20,11,La Liga,21,2009/2010,Barcelona,Racing Santander
+69238,2010-02-27,11,La Liga,21,2009/2010,Barcelona,Málaga
+69226,2010-03-06,11,La Liga,21,2009/2010,Almería,Barcelona
+69224,2010-03-14,11,La Liga,21,2009/2010,Barcelona,Valencia
+69227,2010-03-21,11,La Liga,21,2009/2010,Real Zaragoza,Barcelona
+69257,2010-03-24,11,La Liga,21,2009/2010,Barcelona,Osasuna
+69298,2010-03-27,11,La Liga,21,2009/2010,Mallorca,Barcelona
+69247,2010-04-03,11,La Liga,21,2009/2010,Barcelona,Athletic Club
+69259,2010-04-10,11,La Liga,21,2009/2010,Real Madrid,Barcelona
+69221,2010-04-14,11,La Liga,21,2009/2010,Barcelona,RC Deportivo La Coruña
+69213,2010-04-17,11,La Liga,21,2009/2010,Espanyol,Barcelona
+69214,2010-04-24,11,La Liga,21,2009/2010,Barcelona,Xerez
+69244,2010-05-01,11,La Liga,21,2009/2010,Villarreal,Barcelona
+69241,2010-05-04,11,La Liga,21,2009/2010,Barcelona,Tenerife
+69239,2010-05-08,11,La Liga,21,2009/2010,Sevilla,Barcelona
+69242,2010-05-16,11,La Liga,21,2009/2010,Barcelona,Real Valladolid
+18235,2010-05-22,16,Champions League,21,2009/2010,Bayern Munich,Inter Milan
+69286,2010-08-29,11,La Liga,22,2010/2011,Racing Santander,Barcelona
+69287,2010-09-11,11,La Liga,22,2010/2011,Barcelona,Hércules
+69269,2010-09-19,11,La Liga,22,2010/2011,Atlético Madrid,Barcelona
+69236,2010-10-03,11,La Liga,22,2010/2011,Barcelona,Mallorca
+69260,2010-10-16,11,La Liga,22,2010/2011,Barcelona,Valencia
+69263,2010-10-23,11,La Liga,22,2010/2011,Real Zaragoza,Barcelona
+69289,2010-10-30,11,La Liga,22,2010/2011,Barcelona,Sevilla
+69270,2010-11-07,11,La Liga,22,2010/2011,Getafe,Barcelona
+69308,2010-11-13,11,La Liga,22,2010/2011,Barcelona,Villarreal
+69306,2010-11-20,11,La Liga,22,2010/2011,Almería,Barcelona
+69299,2010-11-29,11,La Liga,22,2010/2011,Barcelona,Real Madrid
+69307,2010-12-04,11,La Liga,22,2010/2011,Osasuna,Barcelona
+69302,2010-12-12,11,La Liga,22,2010/2011,Barcelona,Real Sociedad
+69275,2010-12-18,11,La Liga,22,2010/2011,Espanyol,Barcelona
+69280,2011-01-08,11,La Liga,22,2010/2011,RC Deportivo La Coruña,Barcelona
+69278,2011-01-16,11,La Liga,22,2010/2011,Barcelona,Málaga
+69295,2011-01-22,11,La Liga,22,2010/2011,Barcelona,Racing Santander
+69296,2011-01-29,11,La Liga,22,2010/2011,Hércules,Barcelona
+69276,2011-02-05,11,La Liga,22,2010/2011,Barcelona,Atlético Madrid
+69248,2011-02-12,11,La Liga,22,2010/2011,Sporting Gijón,Barcelona
+69282,2011-02-20,11,La Liga,22,2010/2011,Barcelona,Athletic Club
+69283,2011-02-26,11,La Liga,22,2010/2011,Mallorca,Barcelona
+69274,2011-03-02,11,La Liga,22,2010/2011,Valencia,Barcelona
+69300,2011-03-05,11,La Liga,22,2010/2011,Barcelona,Real Zaragoza
+69291,2011-03-13,11,La Liga,22,2010/2011,Sevilla,Barcelona
+69303,2011-03-19,11,La Liga,22,2010/2011,Barcelona,Getafe
+69304,2011-04-02,11,La Liga,22,2010/2011,Villarreal,Barcelona
+69305,2011-04-09,11,La Liga,22,2010/2011,Barcelona,Almería
+69245,2011-04-16,11,La Liga,22,2010/2011,Real Madrid,Barcelona
+69271,2011-04-23,11,La Liga,22,2010/2011,Barcelona,Osasuna
+69246,2011-04-30,11,La Liga,22,2010/2011,Real Sociedad,Barcelona
+69234,2011-05-08,11,La Liga,22,2010/2011,Barcelona,Espanyol
+69272,2011-05-11,11,La Liga,22,2010/2011,Levante UD,Barcelona
+18236,2011-05-28,16,Champions League,22,2010/2011,Barcelona,Manchester United
+69268,2011-08-29,11,La Liga,23,2011/2012,Barcelona,Villarreal
+69264,2011-09-10,11,La Liga,23,2011/2012,Real Sociedad,Barcelona
+70220,2011-09-17,11,La Liga,23,2011/2012,Barcelona,Osasuna
+70223,2011-09-21,11,La Liga,23,2011/2012,Valencia,Barcelona
+69297,2011-09-24,11,La Liga,23,2011/2012,Barcelona,Atlético Madrid
+69265,2011-10-02,11,La Liga,23,2011/2012,Sporting Gijón,Barcelona
+69293,2011-10-15,11,La Liga,23,2011/2012,Barcelona,Racing Santander
+69329,2011-10-22,11,La Liga,23,2011/2012,Barcelona,Sevilla
+69318,2011-10-25,11,La Liga,23,2011/2012,Granada,Barcelona
+69314,2011-10-29,11,La Liga,23,2011/2012,Barcelona,Mallorca
+69330,2011-11-06,11,La Liga,23,2011/2012,Athletic Club,Barcelona
+69331,2011-11-19,11,La Liga,23,2011/2012,Barcelona,Real Zaragoza
+69315,2011-11-26,11,La Liga,23,2011/2012,Getafe,Barcelona
+69332,2011-11-29,11,La Liga,23,2011/2012,Barcelona,Rayo Vallecano
+69333,2011-12-03,11,La Liga,23,2011/2012,Barcelona,Levante UD
+69334,2011-12-10,11,La Liga,23,2011/2012,Real Madrid,Barcelona
+69312,2012-01-08,11,La Liga,23,2011/2012,Espanyol,Barcelona
+69327,2012-01-15,11,La Liga,23,2011/2012,Barcelona,Real Betis
+69335,2012-01-22,11,La Liga,23,2011/2012,Málaga,Barcelona
+69338,2012-01-28,11,La Liga,23,2011/2012,Villarreal,Barcelona
+69316,2012-02-04,11,La Liga,23,2011/2012,Barcelona,Real Sociedad
+69336,2012-02-11,11,La Liga,23,2011/2012,Osasuna,Barcelona
+69328,2012-02-19,11,La Liga,23,2011/2012,Barcelona,Valencia
+69337,2012-02-26,11,La Liga,23,2011/2012,Atlético Madrid,Barcelona
+69322,2012-03-11,11,La Liga,23,2011/2012,Racing Santander,Barcelona
+69326,2012-03-17,11,La Liga,23,2011/2012,Sevilla,Barcelona
+70225,2012-03-20,11,La Liga,23,2011/2012,Barcelona,Granada
+69325,2012-03-24,11,La Liga,23,2011/2012,Mallorca,Barcelona
+69323,2012-03-31,11,La Liga,23,2011/2012,Barcelona,Athletic Club
+70219,2012-04-07,11,La Liga,23,2011/2012,Real Zaragoza,Barcelona
+69343,2012-04-10,11,La Liga,23,2011/2012,Barcelona,Getafe
+70221,2012-04-14,11,La Liga,23,2011/2012,Levante UD,Barcelona
+69324,2012-04-21,11,La Liga,23,2011/2012,Barcelona,Real Madrid
+70224,2012-04-29,11,La Liga,23,2011/2012,Rayo Vallecano,Barcelona
+69340,2012-05-02,11,La Liga,23,2011/2012,Barcelona,Málaga
+69320,2012-05-05,11,La Liga,23,2011/2012,Barcelona,Espanyol
+69319,2012-05-12,11,La Liga,23,2011/2012,Real Betis,Barcelona
+18237,2012-05-19,16,Champions League,23,2011/2012,Bayern Munich,Chelsea
+70259,2012-08-19,11,La Liga,24,2012/2013,Barcelona,Real Sociedad
+70262,2012-08-26,11,La Liga,24,2012/2013,Osasuna,Barcelona
+70286,2012-09-02,11,La Liga,24,2012/2013,Barcelona,Valencia
+70292,2012-09-15,11,La Liga,24,2012/2013,Getafe,Barcelona
+70270,2012-09-22,11,La Liga,24,2012/2013,Barcelona,Granada
+70275,2012-09-29,11,La Liga,24,2012/2013,Sevilla,Barcelona
+70300,2012-10-07,11,La Liga,24,2012/2013,Barcelona,Real Madrid
+70304,2012-10-20,11,La Liga,24,2012/2013,RC Deportivo La Coruña,Barcelona
+70276,2012-10-27,11,La Liga,24,2012/2013,Rayo Vallecano,Barcelona
+70308,2012-11-03,11,La Liga,24,2012/2013,Barcelona,Celta Vigo
+266724,2012-11-11,11,La Liga,24,2012/2013,Mallorca,Barcelona
+70309,2012-11-17,11,La Liga,24,2012/2013,Barcelona,Real Zaragoza
+70280,2012-11-25,11,La Liga,24,2012/2013,Levante UD,Barcelona
+70263,2012-12-01,11,La Liga,24,2012/2013,Barcelona,Athletic Club
+70295,2012-12-09,11,La Liga,24,2012/2013,Real Betis,Barcelona
+70296,2012-12-16,11,La Liga,24,2012/2013,Barcelona,Atlético Madrid
+266015,2012-12-22,11,La Liga,24,2012/2013,Real Valladolid,Barcelona
+266433,2013-01-06,11,La Liga,24,2012/2013,Barcelona,Espanyol
+266827,2013-01-13,11,La Liga,24,2012/2013,Málaga,Barcelona
+70287,2013-01-19,11,La Liga,24,2012/2013,Real Sociedad,Barcelona
+70260,2013-01-27,11,La Liga,24,2012/2013,Barcelona,Osasuna
+70282,2013-02-03,11,La Liga,24,2012/2013,Valencia,Barcelona
+70297,2013-02-10,11,La Liga,24,2012/2013,Barcelona,Getafe
+70294,2013-02-16,11,La Liga,24,2012/2013,Granada,Barcelona
+70271,2013-02-23,11,La Liga,24,2012/2013,Barcelona,Sevilla
+70272,2013-03-02,11,La Liga,24,2012/2013,Real Madrid,Barcelona
+70305,2013-03-09,11,La Liga,24,2012/2013,Barcelona,RC Deportivo La Coruña
+70307,2013-03-17,11,La Liga,24,2012/2013,Barcelona,Rayo Vallecano
+70256,2013-03-30,11,La Liga,24,2012/2013,Celta Vigo,Barcelona
+267502,2013-04-27,11,La Liga,24,2012/2013,Athletic Club,Barcelona
+70281,2013-05-05,11,La Liga,24,2012/2013,Barcelona,Real Betis
+70284,2013-05-12,11,La Liga,24,2012/2013,Atlético Madrid,Barcelona
+18240,2013-05-25,16,Champions League,24,2012/2013,Borussia Dortmund,Bayern Munich
+70277,2013-08-18,11,La Liga,25,2013/2014,Barcelona,Levante UD
+70298,2013-09-01,11,La Liga,25,2013/2014,Valencia,Barcelona
+70301,2013-09-14,11,La Liga,25,2013/2014,Barcelona,Sevilla
+70302,2013-09-21,11,La Liga,25,2013/2014,Rayo Vallecano,Barcelona
+267520,2013-09-24,11,La Liga,25,2013/2014,Barcelona,Real Sociedad
+266420,2013-09-28,11,La Liga,25,2013/2014,Almería,Barcelona
+266462,2013-10-19,11,La Liga,25,2013/2014,Osasuna,Barcelona
+70293,2013-10-26,11,La Liga,25,2013/2014,Barcelona,Real Madrid
+267192,2013-10-29,11,La Liga,25,2013/2014,Celta Vigo,Barcelona
+70283,2013-11-01,11,La Liga,25,2013/2014,Barcelona,Espanyol
+266883,2013-11-10,11,La Liga,25,2013/2014,Real Betis,Barcelona
+265830,2014-01-11,11,La Liga,25,2013/2014,Atlético Madrid,Barcelona
+70288,2014-01-19,11,La Liga,25,2013/2014,Levante UD,Barcelona
+70291,2014-01-26,11,La Liga,25,2013/2014,Barcelona,Málaga
+266613,2014-02-01,11,La Liga,25,2013/2014,Barcelona,Valencia
+267675,2014-02-09,11,La Liga,25,2013/2014,Sevilla,Barcelona
+265918,2014-02-15,11,La Liga,25,2013/2014,Barcelona,Rayo Vallecano
+265837,2014-02-22,11,La Liga,25,2013/2014,Real Sociedad,Barcelona
+266066,2014-03-02,11,La Liga,25,2013/2014,Barcelona,Almería
+266603,2014-03-08,11,La Liga,25,2013/2014,Real Valladolid,Barcelona
+266074,2014-03-16,11,La Liga,25,2013/2014,Barcelona,Osasuna
+265857,2014-03-23,11,La Liga,25,2013/2014,Real Madrid,Barcelona
+266274,2014-03-26,11,La Liga,25,2013/2014,Barcelona,Celta Vigo
+70306,2014-03-29,11,La Liga,25,2013/2014,Espanyol,Barcelona
+267368,2014-04-05,11,La Liga,25,2013/2014,Barcelona,Real Betis
+267138,2014-04-12,11,La Liga,25,2013/2014,Granada,Barcelona
+267567,2014-04-20,11,La Liga,25,2013/2014,Barcelona,Athletic Club
+70289,2014-04-27,11,La Liga,25,2013/2014,Villarreal,Barcelona
+266491,2014-05-03,11,La Liga,25,2013/2014,Barcelona,Getafe
+266201,2014-05-11,11,La Liga,25,2013/2014,Elche,Barcelona
+266256,2014-05-17,11,La Liga,25,2013/2014,Barcelona,Atlético Madrid
+18241,2014-05-24,16,Champions League,25,2013/2014,Real Madrid,Atlético Madrid
+266921,2014-08-24,11,La Liga,26,2014/2015,Barcelona,Elche
+266406,2014-08-31,11,La Liga,26,2014/2015,Villarreal,Barcelona
+70273,2014-09-13,11,La Liga,26,2014/2015,Barcelona,Athletic Club
+266770,2014-09-21,11,La Liga,26,2014/2015,Levante UD,Barcelona
+266838,2014-09-24,11,La Liga,26,2014/2015,Málaga,Barcelona
+266117,2014-09-27,11,La Liga,26,2014/2015,Barcelona,Granada
+267561,2014-10-04,11,La Liga,26,2014/2015,Rayo Vallecano,Barcelona
+265896,2014-10-18,11,La Liga,26,2014/2015,Barcelona,Eibar
+267085,2014-10-25,11,La Liga,26,2014/2015,Real Madrid,Barcelona
+267301,2014-11-01,11,La Liga,26,2014/2015,Barcelona,Celta Vigo
+267499,2014-11-08,11,La Liga,26,2014/2015,Almería,Barcelona
+265835,2014-11-22,11,La Liga,26,2014/2015,Barcelona,Sevilla
+266560,2014-11-30,11,La Liga,26,2014/2015,Valencia,Barcelona
+266320,2014-12-07,11,La Liga,26,2014/2015,Barcelona,Espanyol
+70264,2014-12-13,11,La Liga,26,2014/2015,Getafe,Barcelona
+266846,2014-12-20,11,La Liga,26,2014/2015,Barcelona,Córdoba CF
+266240,2015-01-04,11,La Liga,26,2014/2015,Real Sociedad,Barcelona
+70303,2015-01-11,11,La Liga,26,2014/2015,Barcelona,Atlético Madrid
+266230,2015-01-18,11,La Liga,26,2014/2015,RC Deportivo La Coruña,Barcelona
+266794,2015-01-24,11,La Liga,26,2014/2015,Elche,Barcelona
+267597,2015-02-01,11,La Liga,26,2014/2015,Barcelona,Villarreal
+266871,2015-02-08,11,La Liga,26,2014/2015,Athletic Club,Barcelona
+266741,2015-02-15,11,La Liga,26,2014/2015,Barcelona,Levante UD
+266148,2015-02-21,11,La Liga,26,2014/2015,Barcelona,Málaga
+267343,2015-02-28,11,La Liga,26,2014/2015,Granada,Barcelona
+266916,2015-03-08,11,La Liga,26,2014/2015,Barcelona,Rayo Vallecano
+266967,2015-03-14,11,La Liga,26,2014/2015,Eibar,Barcelona
+267183,2015-03-22,11,La Liga,26,2014/2015,Barcelona,Real Madrid
+266929,2015-04-05,11,La Liga,26,2014/2015,Celta Vigo,Barcelona
+267400,2015-04-08,11,La Liga,26,2014/2015,Barcelona,Almería
+266142,2015-04-11,11,La Liga,26,2014/2015,Sevilla,Barcelona
+266525,2015-04-18,11,La Liga,26,2014/2015,Barcelona,Valencia
+266531,2015-04-25,11,La Liga,26,2014/2015,Espanyol,Barcelona
+265963,2015-04-28,11,La Liga,26,2014/2015,Barcelona,Getafe
+265866,2015-05-02,11,La Liga,26,2014/2015,Córdoba CF,Barcelona
+266045,2015-05-09,11,La Liga,26,2014/2015,Barcelona,Real Sociedad
+266631,2015-05-17,11,La Liga,26,2014/2015,Atlético Madrid,Barcelona
+267197,2015-05-23,11,La Liga,26,2014/2015,Barcelona,RC Deportivo La Coruña
+18242,2015-06-06,16,Champions League,26,2014/2015,Juventus,Barcelona
+3825562,2015-08-21,11,La Liga,27,2015/2016,Málaga,Sevilla
+3825563,2015-08-22,11,La Liga,27,2015/2016,Atlético Madrid,Las Palmas
+3825564,2015-08-22,11,La Liga,27,2015/2016,RC Deportivo La Coruña,Real Sociedad
+3825565,2015-08-22,11,La Liga,27,2015/2016,Espanyol,Getafe
+3825566,2015-08-22,11,La Liga,27,2015/2016,Rayo Vallecano,Valencia
+266236,2015-08-23,11,La Liga,27,2015/2016,Athletic Club,Barcelona
+3825567,2015-08-23,11,La Liga,27,2015/2016,Sporting Gijón,Real Madrid
+3825568,2015-08-23,11,La Liga,27,2015/2016,Real Betis,Villarreal
+3825569,2015-08-23,11,La Liga,27,2015/2016,Levante UD,Celta Vigo
+3825570,2015-08-24,11,La Liga,27,2015/2016,Granada,Eibar
+3825571,2015-08-28,11,La Liga,27,2015/2016,Villarreal,Espanyol
+267422,2015-08-29,11,La Liga,27,2015/2016,Barcelona,Málaga
+3825572,2015-08-29,11,La Liga,27,2015/2016,Real Madrid,Real Betis
+3825573,2015-08-29,11,La Liga,27,2015/2016,Real Sociedad,Sporting Gijón
+3825574,2015-08-29,11,La Liga,27,2015/2016,Celta Vigo,Rayo Vallecano
+3825575,2015-08-30,11,La Liga,27,2015/2016,Las Palmas,Levante UD
+3825576,2015-08-30,11,La Liga,27,2015/2016,Valencia,RC Deportivo La Coruña
+3825577,2015-08-30,11,La Liga,27,2015/2016,Getafe,Granada
+3825578,2015-08-30,11,La Liga,27,2015/2016,Eibar,Athletic Club
+3825579,2015-08-30,11,La Liga,27,2015/2016,Sevilla,Atlético Madrid
+3825580,2015-09-11,11,La Liga,27,2015/2016,Levante UD,Sevilla
+266166,2015-09-12,11,La Liga,27,2015/2016,Atlético Madrid,Barcelona
+3825581,2015-09-12,11,La Liga,27,2015/2016,Espanyol,Real Madrid
+3825582,2015-09-12,11,La Liga,27,2015/2016,Real Betis,Real Sociedad
+3825583,2015-09-12,11,La Liga,27,2015/2016,Sporting Gijón,Valencia
+3825584,2015-09-13,11,La Liga,27,2015/2016,Granada,Villarreal
+3825585,2015-09-13,11,La Liga,27,2015/2016,Celta Vigo,Las Palmas
+3825586,2015-09-13,11,La Liga,27,2015/2016,Málaga,Eibar
+3825587,2015-09-13,11,La Liga,27,2015/2016,Athletic Club,Getafe
+3825588,2015-09-14,11,La Liga,27,2015/2016,Rayo Vallecano,RC Deportivo La Coruña
+3825589,2015-09-18,11,La Liga,27,2015/2016,Getafe,Málaga
+3825590,2015-09-19,11,La Liga,27,2015/2016,Real Madrid,Granada
+3825591,2015-09-19,11,La Liga,27,2015/2016,Valencia,Real Betis
+3825592,2015-09-19,11,La Liga,27,2015/2016,Real Sociedad,Espanyol
+3825593,2015-09-19,11,La Liga,27,2015/2016,Eibar,Atlético Madrid
+266490,2015-09-20,11,La Liga,27,2015/2016,Barcelona,Levante UD
+3825594,2015-09-20,11,La Liga,27,2015/2016,Sevilla,Celta Vigo
+3825595,2015-09-20,11,La Liga,27,2015/2016,Villarreal,Athletic Club
+3825596,2015-09-20,11,La Liga,27,2015/2016,RC Deportivo La Coruña,Sporting Gijón
+3825597,2015-09-20,11,La Liga,27,2015/2016,Las Palmas,Rayo Vallecano
+3825598,2015-09-22,11,La Liga,27,2015/2016,Atlético Madrid,Getafe
+3825599,2015-09-22,11,La Liga,27,2015/2016,Espanyol,Valencia
+3825892,2015-09-22,11,La Liga,27,2015/2016,Granada,Real Sociedad
+266467,2015-09-23,11,La Liga,27,2015/2016,Celta Vigo,Barcelona
+3825600,2015-09-23,11,La Liga,27,2015/2016,Málaga,Villarreal
+3825601,2015-09-23,11,La Liga,27,2015/2016,Rayo Vallecano,Sporting Gijón
+3825602,2015-09-23,11,La Liga,27,2015/2016,Athletic Club,Real Madrid
+3825848,2015-09-23,11,La Liga,27,2015/2016,Levante UD,Eibar
+3825895,2015-09-23,11,La Liga,27,2015/2016,Las Palmas,Sevilla
+3825603,2015-09-24,11,La Liga,27,2015/2016,Real Betis,RC Deportivo La Coruña
+3825604,2015-09-25,11,La Liga,27,2015/2016,Valencia,Granada
+267611,2015-09-26,11,La Liga,27,2015/2016,Barcelona,Las Palmas
+3825605,2015-09-26,11,La Liga,27,2015/2016,Sevilla,Rayo Vallecano
+3825606,2015-09-26,11,La Liga,27,2015/2016,Real Madrid,Málaga
+3825607,2015-09-26,11,La Liga,27,2015/2016,Villarreal,Atlético Madrid
+3825608,2015-09-26,11,La Liga,27,2015/2016,Eibar,Celta Vigo
+3825609,2015-09-27,11,La Liga,27,2015/2016,Real Sociedad,Athletic Club
+3825610,2015-09-27,11,La Liga,27,2015/2016,Sporting Gijón,Real Betis
+3825611,2015-09-27,11,La Liga,27,2015/2016,RC Deportivo La Coruña,Espanyol
+3825612,2015-09-27,11,La Liga,27,2015/2016,Getafe,Levante UD
+3825613,2015-10-02,11,La Liga,27,2015/2016,Celta Vigo,Getafe
+3825614,2015-10-03,11,La Liga,27,2015/2016,Granada,RC Deportivo La Coruña
+3825615,2015-10-03,11,La Liga,27,2015/2016,Espanyol,Sporting Gijón
+3825616,2015-10-03,11,La Liga,27,2015/2016,Málaga,Real Sociedad
+3825617,2015-10-03,11,La Liga,27,2015/2016,Sevilla,Barcelona
+3825618,2015-10-03,11,La Liga,27,2015/2016,Las Palmas,Eibar
+3825619,2015-10-04,11,La Liga,27,2015/2016,Levante UD,Villarreal
+3825620,2015-10-04,11,La Liga,27,2015/2016,Rayo Vallecano,Real Betis
+3825621,2015-10-04,11,La Liga,27,2015/2016,Atlético Madrid,Real Madrid
+3825622,2015-10-04,11,La Liga,27,2015/2016,Athletic Club,Valencia
+3825623,2015-10-17,11,La Liga,27,2015/2016,Valencia,Málaga
+3825624,2015-10-17,11,La Liga,27,2015/2016,Eibar,Sevilla
+3825625,2015-10-17,11,La Liga,27,2015/2016,Real Madrid,Levante UD
+3825626,2015-10-17,11,La Liga,27,2015/2016,Real Betis,Espanyol
+3825627,2015-10-17,11,La Liga,27,2015/2016,Barcelona,Rayo Vallecano
+3825628,2015-10-18,11,La Liga,27,2015/2016,Getafe,Las Palmas
+3825629,2015-10-18,11,La Liga,27,2015/2016,Villarreal,Celta Vigo
+3825630,2015-10-18,11,La Liga,27,2015/2016,RC Deportivo La Coruña,Athletic Club
+3825631,2015-10-18,11,La Liga,27,2015/2016,Real Sociedad,Atlético Madrid
+3825632,2015-10-19,11,La Liga,27,2015/2016,Sporting Gijón,Granada
+3825633,2015-10-23,11,La Liga,27,2015/2016,Rayo Vallecano,Espanyol
+3825634,2015-10-24,11,La Liga,27,2015/2016,Granada,Real Betis
+3825635,2015-10-24,11,La Liga,27,2015/2016,Celta Vigo,Real Madrid
+3825636,2015-10-24,11,La Liga,27,2015/2016,Málaga,RC Deportivo La Coruña
+3825874,2015-10-24,11,La Liga,27,2015/2016,Sevilla,Getafe
+3825637,2015-10-25,11,La Liga,27,2015/2016,Barcelona,Eibar
+3825638,2015-10-25,11,La Liga,27,2015/2016,Atlético Madrid,Valencia
+3825639,2015-10-25,11,La Liga,27,2015/2016,Las Palmas,Villarreal
+3825640,2015-10-25,11,La Liga,27,2015/2016,Levante UD,Real Sociedad
+3825641,2015-10-26,11,La Liga,27,2015/2016,Athletic Club,Sporting Gijón
+3825642,2015-10-30,11,La Liga,27,2015/2016,RC Deportivo La Coruña,Atlético Madrid
+3825643,2015-10-31,11,La Liga,27,2015/2016,Real Madrid,Las Palmas
+3825644,2015-10-31,11,La Liga,27,2015/2016,Real Sociedad,Celta Vigo
+3825645,2015-10-31,11,La Liga,27,2015/2016,Getafe,Barcelona
+3825646,2015-10-31,11,La Liga,27,2015/2016,Villarreal,Sevilla
+3825647,2015-10-31,11,La Liga,27,2015/2016,Valencia,Levante UD
+3825648,2015-11-01,11,La Liga,27,2015/2016,Eibar,Rayo Vallecano
+3825649,2015-11-01,11,La Liga,27,2015/2016,Sporting Gijón,Málaga
+3825650,2015-11-01,11,La Liga,27,2015/2016,Real Betis,Athletic Club
+3825651,2015-11-01,11,La Liga,27,2015/2016,Espanyol,Granada
+3825652,2015-11-06,11,La Liga,27,2015/2016,Las Palmas,Real Sociedad
+3825653,2015-11-07,11,La Liga,27,2015/2016,Eibar,Getafe
+3825654,2015-11-07,11,La Liga,27,2015/2016,Celta Vigo,Valencia
+3825655,2015-11-07,11,La Liga,27,2015/2016,Rayo Vallecano,Granada
+3825656,2015-11-07,11,La Liga,27,2015/2016,Levante UD,RC Deportivo La Coruña
+3825657,2015-11-07,11,La Liga,27,2015/2016,Málaga,Real Betis
+3825658,2015-11-08,11,La Liga,27,2015/2016,Atlético Madrid,Sporting Gijón
+3825659,2015-11-08,11,La Liga,27,2015/2016,Athletic Club,Espanyol
+3825660,2015-11-08,11,La Liga,27,2015/2016,Barcelona,Villarreal
+3825661,2015-11-08,11,La Liga,27,2015/2016,Sevilla,Real Madrid
+266424,2015-11-21,11,La Liga,27,2015/2016,Real Madrid,Barcelona
+3825662,2015-11-21,11,La Liga,27,2015/2016,RC Deportivo La Coruña,Celta Vigo
+3825663,2015-11-21,11,La Liga,27,2015/2016,Espanyol,Málaga
+3825664,2015-11-21,11,La Liga,27,2015/2016,Real Sociedad,Sevilla
+3825888,2015-11-21,11,La Liga,27,2015/2016,Valencia,Las Palmas
+3825665,2015-11-22,11,La Liga,27,2015/2016,Granada,Athletic Club
+3825666,2015-11-22,11,La Liga,27,2015/2016,Real Betis,Atlético Madrid
+3825667,2015-11-22,11,La Liga,27,2015/2016,Villarreal,Eibar
+3825668,2015-11-22,11,La Liga,27,2015/2016,Sporting Gijón,Levante UD
+3825669,2015-11-23,11,La Liga,27,2015/2016,Getafe,Rayo Vallecano
+3825670,2015-11-27,11,La Liga,27,2015/2016,Levante UD,Real Betis
+266885,2015-11-28,11,La Liga,27,2015/2016,Barcelona,Real Sociedad
+3825671,2015-11-28,11,La Liga,27,2015/2016,Celta Vigo,Sporting Gijón
+3825672,2015-11-28,11,La Liga,27,2015/2016,Málaga,Granada
+3825673,2015-11-28,11,La Liga,27,2015/2016,Las Palmas,RC Deportivo La Coruña
+3825674,2015-11-28,11,La Liga,27,2015/2016,Atlético Madrid,Espanyol
+3825675,2015-11-29,11,La Liga,27,2015/2016,Rayo Vallecano,Athletic Club
+3825676,2015-11-29,11,La Liga,27,2015/2016,Getafe,Villarreal
+3825677,2015-11-29,11,La Liga,27,2015/2016,Sevilla,Valencia
+3825678,2015-11-29,11,La Liga,27,2015/2016,Eibar,Real Madrid
+267274,2015-12-05,11,La Liga,27,2015/2016,Valencia,Barcelona
+3825679,2015-12-05,11,La Liga,27,2015/2016,Real Betis,Celta Vigo
+3825680,2015-12-05,11,La Liga,27,2015/2016,RC Deportivo La Coruña,Sevilla
+3825681,2015-12-05,11,La Liga,27,2015/2016,Real Madrid,Getafe
+3825682,2015-12-05,11,La Liga,27,2015/2016,Granada,Atlético Madrid
+3825683,2015-12-06,11,La Liga,27,2015/2016,Real Sociedad,Eibar
+3825684,2015-12-06,11,La Liga,27,2015/2016,Villarreal,Rayo Vallecano
+3825685,2015-12-06,11,La Liga,27,2015/2016,Sporting Gijón,Las Palmas
+3825686,2015-12-06,11,La Liga,27,2015/2016,Athletic Club,Málaga
+3825687,2015-12-07,11,La Liga,27,2015/2016,Espanyol,Levante UD
+3825688,2015-12-11,11,La Liga,27,2015/2016,Getafe,Real Sociedad
+266961,2015-12-12,11,La Liga,27,2015/2016,Barcelona,RC Deportivo La Coruña
+3825689,2015-12-12,11,La Liga,27,2015/2016,Celta Vigo,Espanyol
+3825690,2015-12-12,11,La Liga,27,2015/2016,Las Palmas,Real Betis
+3825691,2015-12-12,11,La Liga,27,2015/2016,Levante UD,Granada
+3825692,2015-12-12,11,La Liga,27,2015/2016,Sevilla,Sporting Gijón
+3825693,2015-12-13,11,La Liga,27,2015/2016,Atlético Madrid,Athletic Club
+3825694,2015-12-13,11,La Liga,27,2015/2016,Eibar,Valencia
+3825695,2015-12-13,11,La Liga,27,2015/2016,Villarreal,Real Madrid
+3825696,2015-12-13,11,La Liga,27,2015/2016,Rayo Vallecano,Málaga
+3825697,2015-12-19,11,La Liga,27,2015/2016,Valencia,Getafe
+3825698,2015-12-19,11,La Liga,27,2015/2016,RC Deportivo La Coruña,Eibar
+3825699,2015-12-19,11,La Liga,27,2015/2016,Real Betis,Sevilla
+3825891,2015-12-19,11,La Liga,27,2015/2016,Espanyol,Las Palmas
+3825700,2015-12-20,11,La Liga,27,2015/2016,Real Madrid,Rayo Vallecano
+3825701,2015-12-20,11,La Liga,27,2015/2016,Málaga,Atlético Madrid
+3825702,2015-12-20,11,La Liga,27,2015/2016,Real Sociedad,Villarreal
+3825703,2015-12-20,11,La Liga,27,2015/2016,Athletic Club,Levante UD
+3825704,2015-12-20,11,La Liga,27,2015/2016,Granada,Celta Vigo
+267327,2015-12-30,11,La Liga,27,2015/2016,Barcelona,Real Betis
+3825705,2015-12-30,11,La Liga,27,2015/2016,Eibar,Sporting Gijón
+3825706,2015-12-30,11,La Liga,27,2015/2016,Celta Vigo,Athletic Club
+3825707,2015-12-30,11,La Liga,27,2015/2016,Las Palmas,Granada
+3825708,2015-12-30,11,La Liga,27,2015/2016,Levante UD,Málaga
+3825709,2015-12-30,11,La Liga,27,2015/2016,Sevilla,Espanyol
+3825710,2015-12-30,11,La Liga,27,2015/2016,Real Madrid,Real Sociedad
+3825711,2015-12-30,11,La Liga,27,2015/2016,Rayo Vallecano,Atlético Madrid
+3825712,2015-12-30,11,La Liga,27,2015/2016,Getafe,RC Deportivo La Coruña
+3825713,2015-12-31,11,La Liga,27,2015/2016,Villarreal,Valencia
+266670,2016-01-02,11,La Liga,27,2015/2016,Espanyol,Barcelona
+3825714,2016-01-02,11,La Liga,27,2015/2016,Atlético Madrid,Levante UD
+3825715,2016-01-02,11,La Liga,27,2015/2016,Málaga,Celta Vigo
+3825716,2016-01-03,11,La Liga,27,2015/2016,Rayo Vallecano,Real Sociedad
+3825717,2016-01-03,11,La Liga,27,2015/2016,Granada,Sevilla
+3825718,2016-01-03,11,La Liga,27,2015/2016,Valencia,Real Madrid
+3825719,2016-01-03,11,La Liga,27,2015/2016,Athletic Club,Las Palmas
+3825720,2016-01-03,11,La Liga,27,2015/2016,Real Betis,Eibar
+3825721,2016-01-03,11,La Liga,27,2015/2016,RC Deportivo La Coruña,Villarreal
+3825722,2016-01-04,11,La Liga,27,2015/2016,Sporting Gijón,Getafe
+266620,2016-01-09,11,La Liga,27,2015/2016,Barcelona,Granada
+3825723,2016-01-09,11,La Liga,27,2015/2016,Levante UD,Rayo Vallecano
+3825724,2016-01-09,11,La Liga,27,2015/2016,Real Madrid,RC Deportivo La Coruña
+3825725,2016-01-09,11,La Liga,27,2015/2016,Getafe,Real Betis
+3825726,2016-01-09,11,La Liga,27,2015/2016,Sevilla,Athletic Club
+3825727,2016-01-10,11,La Liga,27,2015/2016,Eibar,Espanyol
+3825728,2016-01-10,11,La Liga,27,2015/2016,Celta Vigo,Atlético Madrid
+3825729,2016-01-10,11,La Liga,27,2015/2016,Villarreal,Sporting Gijón
+3825730,2016-01-10,11,La Liga,27,2015/2016,Real Sociedad,Valencia
+3825731,2016-01-10,11,La Liga,27,2015/2016,Las Palmas,Málaga
+3825732,2016-01-16,11,La Liga,27,2015/2016,Celta Vigo,Levante UD
+3825733,2016-01-16,11,La Liga,27,2015/2016,Sevilla,Málaga
+3825734,2016-01-16,11,La Liga,27,2015/2016,Real Sociedad,RC Deportivo La Coruña
+3825735,2016-01-16,11,La Liga,27,2015/2016,Villarreal,Real Betis
+266149,2016-01-17,11,La Liga,27,2015/2016,Barcelona,Athletic Club
+3825736,2016-01-17,11,La Liga,27,2015/2016,Valencia,Rayo Vallecano
+3825737,2016-01-17,11,La Liga,27,2015/2016,Getafe,Espanyol
+3825738,2016-01-17,11,La Liga,27,2015/2016,Las Palmas,Atlético Madrid
+3825739,2016-01-17,11,La Liga,27,2015/2016,Real Madrid,Sporting Gijón
+3825740,2016-01-18,11,La Liga,27,2015/2016,Eibar,Granada
+3825741,2016-01-22,11,La Liga,27,2015/2016,Sporting Gijón,Real Sociedad
+265894,2016-01-23,11,La Liga,27,2015/2016,Málaga,Barcelona
+3825742,2016-01-23,11,La Liga,27,2015/2016,Granada,Getafe
+3825743,2016-01-23,11,La Liga,27,2015/2016,Rayo Vallecano,Celta Vigo
+3825744,2016-01-23,11,La Liga,27,2015/2016,Espanyol,Villarreal
+3825745,2016-01-24,11,La Liga,27,2015/2016,RC Deportivo La Coruña,Valencia
+3825746,2016-01-24,11,La Liga,27,2015/2016,Real Betis,Real Madrid
+3825747,2016-01-24,11,La Liga,27,2015/2016,Athletic Club,Eibar
+3825748,2016-01-24,11,La Liga,27,2015/2016,Atlético Madrid,Sevilla
+3825749,2016-01-25,11,La Liga,27,2015/2016,Levante UD,Las Palmas
+267576,2016-01-30,11,La Liga,27,2015/2016,Barcelona,Atlético Madrid
+3825750,2016-01-30,11,La Liga,27,2015/2016,Real Sociedad,Real Betis
+3825751,2016-01-30,11,La Liga,27,2015/2016,Getafe,Athletic Club
+3825752,2016-01-30,11,La Liga,27,2015/2016,Eibar,Málaga
+3825753,2016-01-30,11,La Liga,27,2015/2016,Villarreal,Granada
+3825754,2016-01-31,11,La Liga,27,2015/2016,Las Palmas,Celta Vigo
+3825755,2016-01-31,11,La Liga,27,2015/2016,Valencia,Sporting Gijón
+3825756,2016-01-31,11,La Liga,27,2015/2016,Sevilla,Levante UD
+3825757,2016-01-31,11,La Liga,27,2015/2016,Real Madrid,Espanyol
+3825758,2016-02-01,11,La Liga,27,2015/2016,RC Deportivo La Coruña,Rayo Vallecano
+3825759,2016-02-05,11,La Liga,27,2015/2016,Málaga,Getafe
+3825760,2016-02-06,11,La Liga,27,2015/2016,Atlético Madrid,Eibar
+3825761,2016-02-06,11,La Liga,27,2015/2016,Athletic Club,Villarreal
+3825762,2016-02-06,11,La Liga,27,2015/2016,Sporting Gijón,RC Deportivo La Coruña
+3825763,2016-02-06,11,La Liga,27,2015/2016,Rayo Vallecano,Las Palmas
+266160,2016-02-07,11,La Liga,27,2015/2016,Levante UD,Barcelona
+3825764,2016-02-07,11,La Liga,27,2015/2016,Granada,Real Madrid
+3825765,2016-02-07,11,La Liga,27,2015/2016,Celta Vigo,Sevilla
+3825766,2016-02-07,11,La Liga,27,2015/2016,Real Betis,Valencia
+3825767,2016-02-08,11,La Liga,27,2015/2016,Espanyol,Real Sociedad
+3825768,2016-02-12,11,La Liga,27,2015/2016,Sporting Gijón,Rayo Vallecano
+3825769,2016-02-13,11,La Liga,27,2015/2016,Villarreal,Málaga
+3825770,2016-02-13,11,La Liga,27,2015/2016,Real Madrid,Athletic Club
+3825771,2016-02-13,11,La Liga,27,2015/2016,RC Deportivo La Coruña,Real Betis
+3825772,2016-02-13,11,La Liga,27,2015/2016,Valencia,Espanyol
+266254,2016-02-14,11,La Liga,27,2015/2016,Barcelona,Celta Vigo
+3825773,2016-02-14,11,La Liga,27,2015/2016,Eibar,Levante UD
+3825774,2016-02-14,11,La Liga,27,2015/2016,Getafe,Atlético Madrid
+3825775,2016-02-14,11,La Liga,27,2015/2016,Real Sociedad,Granada
+3825776,2016-02-14,11,La Liga,27,2015/2016,Sevilla,Las Palmas
+266815,2016-02-17,11,La Liga,27,2015/2016,Sporting Gijón,Barcelona
+3825777,2016-02-19,11,La Liga,27,2015/2016,Levante UD,Getafe
+267273,2016-02-20,11,La Liga,27,2015/2016,Las Palmas,Barcelona
+3825778,2016-02-20,11,La Liga,27,2015/2016,Real Betis,Sporting Gijón
+3825779,2016-02-20,11,La Liga,27,2015/2016,Celta Vigo,Eibar
+3825780,2016-02-20,11,La Liga,27,2015/2016,Espanyol,RC Deportivo La Coruña
+3825781,2016-02-21,11,La Liga,27,2015/2016,Rayo Vallecano,Sevilla
+3825782,2016-02-21,11,La Liga,27,2015/2016,Granada,Valencia
+3825783,2016-02-21,11,La Liga,27,2015/2016,Athletic Club,Real Sociedad
+3825784,2016-02-21,11,La Liga,27,2015/2016,Atlético Madrid,Villarreal
+3825785,2016-02-21,11,La Liga,27,2015/2016,Málaga,Real Madrid
+3825786,2016-02-26,11,La Liga,27,2015/2016,Eibar,Las Palmas
+3825787,2016-02-27,11,La Liga,27,2015/2016,Real Madrid,Atlético Madrid
+3825788,2016-02-27,11,La Liga,27,2015/2016,Getafe,Celta Vigo
+3825789,2016-02-27,11,La Liga,27,2015/2016,Real Sociedad,Málaga
+3825790,2016-02-27,11,La Liga,27,2015/2016,Sporting Gijón,Espanyol
+3825791,2016-02-27,11,La Liga,27,2015/2016,Real Betis,Rayo Vallecano
+265839,2016-02-28,11,La Liga,27,2015/2016,Barcelona,Sevilla
+3825792,2016-02-28,11,La Liga,27,2015/2016,RC Deportivo La Coruña,Granada
+3825793,2016-02-28,11,La Liga,27,2015/2016,Valencia,Athletic Club
+3825794,2016-02-28,11,La Liga,27,2015/2016,Villarreal,Levante UD
+3825795,2016-03-01,11,La Liga,27,2015/2016,Atlético Madrid,Real Sociedad
+3825796,2016-03-01,11,La Liga,27,2015/2016,Las Palmas,Getafe
+3825797,2016-03-02,11,La Liga,27,2015/2016,Athletic Club,RC Deportivo La Coruña
+3825798,2016-03-02,11,La Liga,27,2015/2016,Levante UD,Real Madrid
+3825799,2016-03-02,11,La Liga,27,2015/2016,Málaga,Valencia
+3825800,2016-03-02,11,La Liga,27,2015/2016,Celta Vigo,Villarreal
+3825801,2016-03-02,11,La Liga,27,2015/2016,Sevilla,Eibar
+266653,2016-03-03,11,La Liga,27,2015/2016,Rayo Vallecano,Barcelona
+3825802,2016-03-03,11,La Liga,27,2015/2016,Espanyol,Real Betis
+3825803,2016-03-03,11,La Liga,27,2015/2016,Granada,Sporting Gijón
+3825804,2016-03-05,11,La Liga,27,2015/2016,RC Deportivo La Coruña,Málaga
+3825805,2016-03-05,11,La Liga,27,2015/2016,Villarreal,Las Palmas
+3825806,2016-03-05,11,La Liga,27,2015/2016,Real Madrid,Celta Vigo
+3825867,2016-03-05,11,La Liga,27,2015/2016,Getafe,Sevilla
+266056,2016-03-06,11,La Liga,27,2015/2016,Eibar,Barcelona
+3825807,2016-03-06,11,La Liga,27,2015/2016,Valencia,Atlético Madrid
+3825808,2016-03-06,11,La Liga,27,2015/2016,Sporting Gijón,Athletic Club
+3825809,2016-03-06,11,La Liga,27,2015/2016,Real Betis,Granada
+3825810,2016-03-06,11,La Liga,27,2015/2016,Real Sociedad,Levante UD
+3825811,2016-03-07,11,La Liga,27,2015/2016,Espanyol,Rayo Vallecano
+3825812,2016-03-11,11,La Liga,27,2015/2016,Málaga,Sporting Gijón
+266498,2016-03-12,11,La Liga,27,2015/2016,Barcelona,Getafe
+3825813,2016-03-12,11,La Liga,27,2015/2016,Atlético Madrid,RC Deportivo La Coruña
+3825814,2016-03-12,11,La Liga,27,2015/2016,Celta Vigo,Real Sociedad
+3825858,2016-03-12,11,La Liga,27,2015/2016,Rayo Vallecano,Eibar
+3825815,2016-03-13,11,La Liga,27,2015/2016,Levante UD,Valencia
+3825816,2016-03-13,11,La Liga,27,2015/2016,Sevilla,Villarreal
+3825844,2016-03-13,11,La Liga,27,2015/2016,Athletic Club,Real Betis
+3825879,2016-03-13,11,La Liga,27,2015/2016,Las Palmas,Real Madrid
+3825881,2016-03-14,11,La Liga,27,2015/2016,Granada,Espanyol
+3825817,2016-03-18,11,La Liga,27,2015/2016,Getafe,Eibar
+3825818,2016-03-19,11,La Liga,27,2015/2016,Real Sociedad,Las Palmas
+3825880,2016-03-19,11,La Liga,27,2015/2016,RC Deportivo La Coruña,Levante UD
+3825887,2016-03-19,11,La Liga,27,2015/2016,Granada,Rayo Vallecano
+3825903,2016-03-19,11,La Liga,27,2015/2016,Real Betis,Málaga
+3825907,2016-03-19,11,La Liga,27,2015/2016,Sporting Gijón,Atlético Madrid
+266106,2016-03-20,11,La Liga,27,2015/2016,Villarreal,Barcelona
+3825819,2016-03-20,11,La Liga,27,2015/2016,Valencia,Celta Vigo
+3825820,2016-03-20,11,La Liga,27,2015/2016,Real Madrid,Sevilla
+3825821,2016-03-20,11,La Liga,27,2015/2016,Espanyol,Athletic Club
+3825885,2016-04-01,11,La Liga,27,2015/2016,Rayo Vallecano,Getafe
+267533,2016-04-02,11,La Liga,27,2015/2016,Barcelona,Real Madrid
+3825822,2016-04-02,11,La Liga,27,2015/2016,Las Palmas,Valencia
+3825872,2016-04-02,11,La Liga,27,2015/2016,Atlético Madrid,Real Betis
+3825898,2016-04-02,11,La Liga,27,2015/2016,Celta Vigo,RC Deportivo La Coruña
+3825823,2016-04-03,11,La Liga,27,2015/2016,Sevilla,Real Sociedad
+3825824,2016-04-03,11,La Liga,27,2015/2016,Eibar,Villarreal
+3825877,2016-04-03,11,La Liga,27,2015/2016,Athletic Club,Granada
+3825905,2016-04-03,11,La Liga,27,2015/2016,Málaga,Espanyol
+3825825,2016-04-04,11,La Liga,27,2015/2016,Levante UD,Sporting Gijón
+3825826,2016-04-08,11,La Liga,27,2015/2016,Granada,Málaga
+266664,2016-04-09,11,La Liga,27,2015/2016,Real Sociedad,Barcelona
+3825827,2016-04-09,11,La Liga,27,2015/2016,Real Betis,Levante UD
+3825828,2016-04-09,11,La Liga,27,2015/2016,Espanyol,Atlético Madrid
+3825856,2016-04-09,11,La Liga,27,2015/2016,Real Madrid,Eibar
+3825829,2016-04-10,11,La Liga,27,2015/2016,Athletic Club,Rayo Vallecano
+3825830,2016-04-10,11,La Liga,27,2015/2016,Villarreal,Getafe
+3825831,2016-04-10,11,La Liga,27,2015/2016,Valencia,Sevilla
+3825832,2016-04-10,11,La Liga,27,2015/2016,Sporting Gijón,Celta Vigo
+3825863,2016-04-11,11,La Liga,27,2015/2016,RC Deportivo La Coruña,Las Palmas
+3825857,2016-04-15,11,La Liga,27,2015/2016,Levante UD,Espanyol
+3825833,2016-04-16,11,La Liga,27,2015/2016,Getafe,Real Madrid
+3825852,2016-04-16,11,La Liga,27,2015/2016,Las Palmas,Sporting Gijón
+3825889,2016-04-16,11,La Liga,27,2015/2016,Celta Vigo,Real Betis
+3825897,2016-04-16,11,La Liga,27,2015/2016,Eibar,Real Sociedad
+266557,2016-04-17,11,La Liga,27,2015/2016,Barcelona,Valencia
+3825834,2016-04-17,11,La Liga,27,2015/2016,Atlético Madrid,Granada
+3825835,2016-04-17,11,La Liga,27,2015/2016,Málaga,Athletic Club
+3825836,2016-04-17,11,La Liga,27,2015/2016,Rayo Vallecano,Villarreal
+3825906,2016-04-17,11,La Liga,27,2015/2016,Sevilla,RC Deportivo La Coruña
+3825837,2016-04-19,11,La Liga,27,2015/2016,Real Betis,Las Palmas
+3825862,2016-04-19,11,La Liga,27,2015/2016,Espanyol,Celta Vigo
+266310,2016-04-20,11,La Liga,27,2015/2016,RC Deportivo La Coruña,Barcelona
+3825838,2016-04-20,11,La Liga,27,2015/2016,Athletic Club,Atlético Madrid
+3825839,2016-04-20,11,La Liga,27,2015/2016,Sporting Gijón,Sevilla
+3825840,2016-04-20,11,La Liga,27,2015/2016,Valencia,Eibar
+3825843,2016-04-20,11,La Liga,27,2015/2016,Málaga,Rayo Vallecano
+3825893,2016-04-20,11,La Liga,27,2015/2016,Real Madrid,Villarreal
+3825841,2016-04-21,11,La Liga,27,2015/2016,Real Sociedad,Getafe
+3825896,2016-04-21,11,La Liga,27,2015/2016,Granada,Levante UD
+3825871,2016-04-22,11,La Liga,27,2015/2016,Las Palmas,Espanyol
+265944,2016-04-23,11,La Liga,27,2015/2016,Barcelona,Sporting Gijón
+3825847,2016-04-23,11,La Liga,27,2015/2016,Eibar,RC Deportivo La Coruña
+3825886,2016-04-23,11,La Liga,27,2015/2016,Rayo Vallecano,Real Madrid
+3825890,2016-04-23,11,La Liga,27,2015/2016,Atlético Madrid,Málaga
+3825842,2016-04-24,11,La Liga,27,2015/2016,Levante UD,Athletic Club
+3825875,2016-04-24,11,La Liga,27,2015/2016,Villarreal,Real Sociedad
+3825884,2016-04-24,11,La Liga,27,2015/2016,Sevilla,Real Betis
+3825899,2016-04-24,11,La Liga,27,2015/2016,Getafe,Valencia
+3825868,2016-04-25,11,La Liga,27,2015/2016,Celta Vigo,Granada
+3825854,2016-04-29,11,La Liga,27,2015/2016,Sporting Gijón,Eibar
+266986,2016-04-30,11,La Liga,27,2015/2016,Real Betis,Barcelona
+3825859,2016-04-30,11,La Liga,27,2015/2016,Granada,Las Palmas
+3825864,2016-04-30,11,La Liga,27,2015/2016,Real Sociedad,Real Madrid
+3825878,2016-04-30,11,La Liga,27,2015/2016,Atlético Madrid,Rayo Vallecano
+3825845,2016-05-01,11,La Liga,27,2015/2016,Espanyol,Sevilla
+3825870,2016-05-01,11,La Liga,27,2015/2016,Athletic Club,Celta Vigo
+3825873,2016-05-01,11,La Liga,27,2015/2016,Valencia,Villarreal
+3825894,2016-05-01,11,La Liga,27,2015/2016,RC Deportivo La Coruña,Getafe
+3825855,2016-05-02,11,La Liga,27,2015/2016,Málaga,Levante UD
+265958,2016-05-08,11,La Liga,27,2015/2016,Barcelona,Espanyol
+3825850,2016-05-08,11,La Liga,27,2015/2016,Celta Vigo,Málaga
+3825851,2016-05-08,11,La Liga,27,2015/2016,Villarreal,RC Deportivo La Coruña
+3825853,2016-05-08,11,La Liga,27,2015/2016,Sevilla,Granada
+3825860,2016-05-08,11,La Liga,27,2015/2016,Levante UD,Atlético Madrid
+3825861,2016-05-08,11,La Liga,27,2015/2016,Real Sociedad,Rayo Vallecano
+3825865,2016-05-08,11,La Liga,27,2015/2016,Getafe,Sporting Gijón
+3825866,2016-05-08,11,La Liga,27,2015/2016,Las Palmas,Athletic Club
+3825901,2016-05-08,11,La Liga,27,2015/2016,Real Madrid,Valencia
+3825904,2016-05-08,11,La Liga,27,2015/2016,Eibar,Real Betis
+3825849,2016-05-13,11,La Liga,27,2015/2016,Valencia,Real Sociedad
+267506,2016-05-14,11,La Liga,27,2015/2016,Granada,Barcelona
+3825846,2016-05-14,11,La Liga,27,2015/2016,RC Deportivo La Coruña,Real Madrid
+3825869,2016-05-14,11,La Liga,27,2015/2016,Athletic Club,Sevilla
+3825882,2016-05-14,11,La Liga,27,2015/2016,Atlético Madrid,Celta Vigo
+3825876,2016-05-15,11,La Liga,27,2015/2016,Real Betis,Getafe
+3825883,2016-05-15,11,La Liga,27,2015/2016,Málaga,Las Palmas
+3825900,2016-05-15,11,La Liga,27,2015/2016,Sporting Gijón,Villarreal
+3825902,2016-05-15,11,La Liga,27,2015/2016,Rayo Vallecano,Levante UD
+3825908,2016-05-15,11,La Liga,27,2015/2016,Espanyol,Eibar
+18243,2016-05-28,16,Champions League,27,2015/2016,Real Madrid,Atlético Madrid
+267670,2016-08-20,11,La Liga,2,2016/2017,Barcelona,Real Betis
+266892,2016-08-28,11,La Liga,2,2016/2017,Athletic Club,Barcelona
+266669,2016-09-10,11,La Liga,2,2016/2017,Barcelona,Deportivo Alavés
+267212,2016-09-17,11,La Liga,2,2016/2017,Leganés,Barcelona
+267220,2016-09-21,11,La Liga,2,2016/2017,Barcelona,Atlético Madrid
+267492,2016-10-15,11,La Liga,2,2016/2017,Barcelona,RC Deportivo La Coruña
+266033,2016-10-22,11,La Liga,2,2016/2017,Valencia,Barcelona
+267058,2016-10-29,11,La Liga,2,2016/2017,Barcelona,Granada
+266989,2016-11-06,11,La Liga,2,2016/2017,Sevilla,Barcelona
+266191,2016-11-27,11,La Liga,2,2016/2017,Real Sociedad,Barcelona
+267076,2016-12-03,11,La Liga,2,2016/2017,Barcelona,Real Madrid
+266357,2016-12-10,11,La Liga,2,2016/2017,Osasuna,Barcelona
+266528,2016-12-18,11,La Liga,2,2016/2017,Barcelona,Espanyol
+266477,2017-01-08,11,La Liga,2,2016/2017,Villarreal,Barcelona
+267395,2017-01-14,11,La Liga,2,2016/2017,Barcelona,Las Palmas
+266731,2017-01-22,11,La Liga,2,2016/2017,Eibar,Barcelona
+266516,2017-01-29,11,La Liga,2,2016/2017,Real Betis,Barcelona
+266874,2017-02-04,11,La Liga,2,2016/2017,Barcelona,Athletic Club
+266273,2017-02-11,11,La Liga,2,2016/2017,Deportivo Alavés,Barcelona
+267596,2017-02-19,11,La Liga,2,2016/2017,Barcelona,Leganés
+267464,2017-02-26,11,La Liga,2,2016/2017,Atlético Madrid,Barcelona
+265952,2017-03-01,11,La Liga,2,2016/2017,Barcelona,Sporting Gijón
+266299,2017-03-04,11,La Liga,2,2016/2017,Barcelona,Celta Vigo
+267660,2017-03-12,11,La Liga,2,2016/2017,RC Deportivo La Coruña,Barcelona
+266440,2017-03-19,11,La Liga,2,2016/2017,Barcelona,Valencia
+266280,2017-04-05,11,La Liga,2,2016/2017,Barcelona,Sevilla
+267590,2017-04-08,11,La Liga,2,2016/2017,Málaga,Barcelona
+267373,2017-04-15,11,La Liga,2,2016/2017,Barcelona,Real Sociedad
+267569,2017-04-23,11,La Liga,2,2016/2017,Real Madrid,Barcelona
+267101,2017-04-26,11,La Liga,2,2016/2017,Barcelona,Osasuna
+267077,2017-04-29,11,La Liga,2,2016/2017,Espanyol,Barcelona
+266952,2017-05-06,11,La Liga,2,2016/2017,Barcelona,Villarreal
+267039,2017-05-14,11,La Liga,2,2016/2017,Las Palmas,Barcelona
+267432,2017-05-21,11,La Liga,2,2016/2017,Barcelona,Eibar
+18244,2017-06-03,16,Champions League,2,2016/2017,Juventus,Real Madrid
+9575,2017-08-20,11,La Liga,1,2017/2018,Barcelona,Real Betis
+9581,2017-08-26,11,La Liga,1,2017/2018,Deportivo Alavés,Barcelona
+9592,2017-09-09,11,La Liga,1,2017/2018,Barcelona,Espanyol
+9602,2017-09-16,11,La Liga,1,2017/2018,Getafe,Barcelona
+9609,2017-09-19,11,La Liga,1,2017/2018,Barcelona,Eibar
+9620,2017-09-23,11,La Liga,1,2017/2018,Girona,Barcelona
+9636,2017-10-01,11,La Liga,1,2017/2018,Barcelona,Las Palmas
+9642,2017-10-14,11,La Liga,1,2017/2018,Atlético Madrid,Barcelona
+9650,2017-10-21,11,La Liga,1,2017/2018,Barcelona,Málaga
+9661,2017-10-28,11,La Liga,1,2017/2018,Athletic Club,Barcelona
+9673,2017-11-04,11,La Liga,1,2017/2018,Barcelona,Sevilla
+9682,2017-11-18,11,La Liga,1,2017/2018,Leganés,Barcelona
+9695,2017-11-26,11,La Liga,1,2017/2018,Valencia,Barcelona
+9700,2017-12-02,11,La Liga,1,2017/2018,Barcelona,Celta Vigo
+9717,2017-12-10,11,La Liga,1,2017/2018,Villarreal,Barcelona
+9726,2017-12-17,11,La Liga,1,2017/2018,Barcelona,RC Deportivo La Coruña
+9736,2017-12-23,11,La Liga,1,2017/2018,Real Madrid,Barcelona
+9742,2018-01-07,11,La Liga,1,2017/2018,Barcelona,Levante UD
+9754,2018-01-14,11,La Liga,1,2017/2018,Real Sociedad,Barcelona
+9765,2018-01-21,11,La Liga,1,2017/2018,Real Betis,Barcelona
+9774,2018-01-28,11,La Liga,1,2017/2018,Barcelona,Deportivo Alavés
+9783,2018-02-04,11,La Liga,1,2017/2018,Espanyol,Barcelona
+9794,2018-02-11,11,La Liga,1,2017/2018,Barcelona,Getafe
+9799,2018-02-17,11,La Liga,1,2017/2018,Eibar,Barcelona
+9811,2018-02-24,11,La Liga,1,2017/2018,Barcelona,Girona
+9827,2018-03-01,11,La Liga,1,2017/2018,Las Palmas,Barcelona
+9837,2018-03-04,11,La Liga,1,2017/2018,Barcelona,Atlético Madrid
+9855,2018-03-18,11,La Liga,1,2017/2018,Barcelona,Athletic Club
+9860,2018-03-31,11,La Liga,1,2017/2018,Sevilla,Barcelona
+9870,2018-04-07,11,La Liga,1,2017/2018,Barcelona,Leganés
+9880,2018-04-14,11,La Liga,1,2017/2018,Barcelona,Valencia
+9889,2018-04-17,11,La Liga,1,2017/2018,Celta Vigo,Barcelona
+9912,2018-04-29,11,La Liga,1,2017/2018,RC Deportivo La Coruña,Barcelona
+9924,2018-05-06,11,La Liga,1,2017/2018,Barcelona,Real Madrid
+9928,2018-05-09,11,La Liga,1,2017/2018,Barcelona,Villarreal
+9948,2018-05-20,11,La Liga,1,2017/2018,Barcelona,Real Sociedad
+18245,2018-05-26,16,Champions League,1,2017/2018,Real Madrid,Liverpool
+15946,2018-08-18,11,La Liga,4,2018/2019,Barcelona,Deportivo Alavés
+15956,2018-08-25,11,La Liga,4,2018/2019,Real Valladolid,Barcelona
+15973,2018-09-02,11,La Liga,4,2018/2019,Barcelona,Huesca
+15978,2018-09-15,11,La Liga,4,2018/2019,Real Sociedad,Barcelona
+15986,2018-09-23,11,La Liga,4,2018/2019,Barcelona,Girona
+15998,2018-09-26,11,La Liga,4,2018/2019,Leganés,Barcelona
+16010,2018-09-29,11,La Liga,4,2018/2019,Barcelona,Athletic Club
+16023,2018-10-07,11,La Liga,4,2018/2019,Valencia,Barcelona
+16029,2018-10-20,11,La Liga,4,2018/2019,Barcelona,Sevilla
+16056,2018-11-11,11,La Liga,4,2018/2019,Barcelona,Real Betis
+16073,2018-11-24,11,La Liga,4,2018/2019,Atlético Madrid,Barcelona
+16079,2018-12-02,11,La Liga,4,2018/2019,Barcelona,Villarreal
+16086,2018-12-08,11,La Liga,4,2018/2019,Espanyol,Barcelona
+16095,2018-12-16,11,La Liga,4,2018/2019,Levante UD,Barcelona
+16109,2018-12-22,11,La Liga,4,2018/2019,Barcelona,Celta Vigo
+16120,2019-01-06,11,La Liga,4,2018/2019,Getafe,Barcelona
+16131,2019-01-13,11,La Liga,4,2018/2019,Barcelona,Eibar
+16136,2019-01-20,11,La Liga,4,2018/2019,Barcelona,Leganés
+16149,2019-01-27,11,La Liga,4,2018/2019,Girona,Barcelona
+16157,2019-02-02,11,La Liga,4,2018/2019,Barcelona,Valencia
+16173,2019-02-10,11,La Liga,4,2018/2019,Athletic Club,Barcelona
+16182,2019-02-16,11,La Liga,4,2018/2019,Barcelona,Real Valladolid
+16190,2019-02-23,11,La Liga,4,2018/2019,Sevilla,Barcelona
+16196,2019-03-02,11,La Liga,4,2018/2019,Real Madrid,Barcelona
+16205,2019-03-09,11,La Liga,4,2018/2019,Barcelona,Rayo Vallecano
+16215,2019-03-17,11,La Liga,4,2018/2019,Real Betis,Barcelona
+16231,2019-03-30,11,La Liga,4,2018/2019,Barcelona,Espanyol
+16240,2019-04-02,11,La Liga,4,2018/2019,Villarreal,Barcelona
+16248,2019-04-06,11,La Liga,4,2018/2019,Barcelona,Atlético Madrid
+16265,2019-04-20,11,La Liga,4,2018/2019,Barcelona,Real Sociedad
+16275,2019-04-23,11,La Liga,4,2018/2019,Deportivo Alavés,Barcelona
+16289,2019-04-27,11,La Liga,4,2018/2019,Barcelona,Levante UD
+16306,2019-05-12,11,La Liga,4,2018/2019,Barcelona,Getafe
+16317,2019-05-19,11,La Liga,4,2018/2019,Eibar,Barcelona
+22912,2019-06-01,16,Champions League,4,2018/2019,Tottenham Hotspur,Liverpool
+303666,2019-09-21,11,La Liga,42,2019/2020,Granada,Barcelona
+303430,2019-09-24,11,La Liga,42,2019/2020,Barcelona,Villarreal
+303473,2019-10-06,11,La Liga,42,2019/2020,Barcelona,Sevilla
+303700,2019-10-19,11,La Liga,42,2019/2020,Eibar,Barcelona
+303600,2019-10-29,11,La Liga,42,2019/2020,Barcelona,Real Valladolid
+303504,2019-11-02,11,La Liga,42,2019/2020,Levante UD,Barcelona
+303487,2019-11-09,11,La Liga,42,2019/2020,Barcelona,Celta Vigo
+303715,2019-11-23,11,La Liga,42,2019/2020,Leganés,Barcelona
+303524,2019-12-01,11,La Liga,42,2019/2020,Atlético Madrid,Barcelona
+303451,2019-12-07,11,La Liga,42,2019/2020,Barcelona,Mallorca
+303664,2019-12-14,11,La Liga,42,2019/2020,Real Sociedad,Barcelona
+303596,2019-12-18,11,La Liga,42,2019/2020,Barcelona,Real Madrid
+303517,2019-12-21,11,La Liga,42,2019/2020,Barcelona,Deportivo Alavés
+303652,2020-01-04,11,La Liga,42,2019/2020,Espanyol,Barcelona
+303610,2020-01-19,11,La Liga,42,2019/2020,Barcelona,Granada
+303400,2020-01-25,11,La Liga,42,2019/2020,Valencia,Barcelona
+303682,2020-02-02,11,La Liga,42,2019/2020,Barcelona,Levante UD
+303707,2020-02-09,11,La Liga,42,2019/2020,Real Betis,Barcelona
+303377,2020-02-15,11,La Liga,42,2019/2020,Barcelona,Getafe
+303731,2020-02-22,11,La Liga,42,2019/2020,Barcelona,Eibar
+303470,2020-03-01,11,La Liga,42,2019/2020,Real Madrid,Barcelona
+303479,2020-03-07,11,La Liga,42,2019/2020,Barcelona,Real Sociedad
+303548,2020-06-13,11,La Liga,42,2019/2020,Mallorca,Barcelona
+303532,2020-06-16,11,La Liga,42,2019/2020,Barcelona,Leganés
+303674,2020-06-19,11,La Liga,42,2019/2020,Sevilla,Barcelona
+303493,2020-06-23,11,La Liga,42,2019/2020,Barcelona,Athletic Club
+303516,2020-06-27,11,La Liga,42,2019/2020,Celta Vigo,Barcelona
+303696,2020-06-30,11,La Liga,42,2019/2020,Barcelona,Atlético Madrid
+303725,2020-07-05,11,La Liga,42,2019/2020,Villarreal,Barcelona
+303615,2020-07-08,11,La Liga,42,2019/2020,Barcelona,Espanyol
+303680,2020-07-11,11,La Liga,42,2019/2020,Real Valladolid,Barcelona
+303634,2020-07-16,11,La Liga,42,2019/2020,Barcelona,Osasuna
+303421,2020-07-19,11,La Liga,42,2019/2020,Deportivo Alavés,Barcelona
+3773593,2020-09-27,11,La Liga,90,2020/2021,Barcelona,Villarreal
+3773466,2020-10-01,11,La Liga,90,2020/2021,Celta Vigo,Barcelona
+3773672,2020-10-04,11,La Liga,90,2020/2021,Barcelona,Sevilla
+3773587,2020-10-17,11,La Liga,90,2020/2021,Getafe,Barcelona
+3773585,2020-10-24,11,La Liga,90,2020/2021,Barcelona,Real Madrid
+3773386,2020-10-31,11,La Liga,90,2020/2021,Deportivo Alavés,Barcelona
+3773477,2020-11-07,11,La Liga,90,2020/2021,Barcelona,Real Betis
+3773656,2020-11-21,11,La Liga,90,2020/2021,Atlético Madrid,Barcelona
+3773547,2020-11-29,11,La Liga,90,2020/2021,Barcelona,Osasuna
+3773428,2020-12-05,11,La Liga,90,2020/2021,Cádiz,Barcelona
+3773660,2020-12-13,11,La Liga,90,2020/2021,Barcelona,Levante UD
+3773523,2020-12-16,11,La Liga,90,2020/2021,Barcelona,Real Sociedad
+3773377,2020-12-19,11,La Liga,90,2020/2021,Barcelona,Valencia
+3773571,2020-12-22,11,La Liga,90,2020/2021,Real Valladolid,Barcelona
+3773552,2021-01-03,11,La Liga,90,2020/2021,Huesca,Barcelona
+3764661,2021-01-06,11,La Liga,90,2020/2021,Athletic Club,Barcelona
+3773565,2021-01-09,11,La Liga,90,2020/2021,Granada,Barcelona
+3773403,2021-01-31,11,La Liga,90,2020/2021,Barcelona,Athletic Club
+3773631,2021-02-07,11,La Liga,90,2020/2021,Real Betis,Barcelona
+3773526,2021-02-13,11,La Liga,90,2020/2021,Barcelona,Deportivo Alavés
+3773415,2021-02-21,11,La Liga,90,2020/2021,Barcelona,Cádiz
+3764440,2021-02-24,11,La Liga,90,2020/2021,Barcelona,Elche
+3773625,2021-02-27,11,La Liga,90,2020/2021,Sevilla,Barcelona
+3773665,2021-03-06,11,La Liga,90,2020/2021,Osasuna,Barcelona
+3773369,2021-03-15,11,La Liga,90,2020/2021,Barcelona,Huesca
+3773597,2021-03-21,11,La Liga,90,2020/2021,Real Sociedad,Barcelona
+3773474,2021-04-05,11,La Liga,90,2020/2021,Barcelona,Real Valladolid
+3773497,2021-04-10,11,La Liga,90,2020/2021,Real Madrid,Barcelona
+3773661,2021-04-22,11,La Liga,90,2020/2021,Barcelona,Getafe
+3773689,2021-04-25,11,La Liga,90,2020/2021,Villarreal,Barcelona
+3773586,2021-04-29,11,La Liga,90,2020/2021,Barcelona,Granada
+3773695,2021-05-02,11,La Liga,90,2020/2021,Valencia,Barcelona
+3773372,2021-05-08,11,La Liga,90,2020/2021,Barcelona,Atlético Madrid
+3773387,2021-05-11,11,La Liga,90,2020/2021,Levante UD,Barcelona
+3773457,2021-05-16,11,La Liga,90,2020/2021,Barcelona,Celta Vigo

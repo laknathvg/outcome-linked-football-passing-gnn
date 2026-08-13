@@ -1,0 +1,19 @@
+{
+  "artifact": "Experiment 3 - Positional Pooling vs Global Mean Pooling",
+  "created_utc": "2026-08-07T17:46:18.658682+00:00",
+  "eligible_cohort_n": 757,
+  "paired_outer_test_n": 454,
+  "models": [
+    "B-GNN-globalmean",
+    "B-GNN-positional",
+    "C-Hybrid-globalmean",
+    "C-Hybrid-positional"
+  ],
+  "primary_comparison": "C-Hybrid-positional vs C-Hybrid-globalmean",
+  "supporting_comparison": "B-GNN-positional vs B-GNN-globalmean",
+  "frozen_folds": true,
+  "frozen_training_seeds": true,
+  "bootstrap_samples": 10000,
+  "capacity_matched": false,
+  "capacity_note": "Pooling changes representation dimensionality; parameter counts are reported rather than concealed."
+}

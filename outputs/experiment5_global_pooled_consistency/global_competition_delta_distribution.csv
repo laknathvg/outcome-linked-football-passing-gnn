@@ -1,0 +1,3 @@
+subset,competition_count,mean_delta_pp,median_delta_pp,q25_delta_pp,q75_delta_pp,positive_delta_competitions,negative_delta_competitions,zero_delta_competitions
+all_oof_competitions,11,3.2027424071858146,2.455121804575866,0.031663049418168,7.535338237024214,8,3,0
+competitions_with_oof_n_ge_20,11,3.2027424071858146,2.455121804575866,0.031663049418168,7.535338237024214,8,3,0

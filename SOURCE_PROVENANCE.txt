@@ -1,0 +1,28 @@
+SOURCE PROVENANCE
+
+Core src/:
+  football_gnn_experiment5_global_pooled_consistency_final.zip
+  (verified identical core source hashes across final Experiments 2–5)
+
+Additional topology module:
+  football_gnn_experiment2_topology_permutation_final.zip
+
+Experiment 1 runner:
+  run_final_rolling_origin.py from football_gnn_experiment3_pooling_ablation_final.zip
+
+Experiment 2 runner:
+  football_gnn_experiment2_topology_permutation_final.zip
+
+Experiment 3 runner:
+  football_gnn_experiment3_pooling_ablation_final.zip
+
+Experiment 4 runner:
+  football_gnn_experiment4_reduced_feature_robustness_final.zip
+
+Experiment 5 runner:
+  football_gnn_experiment5_global_pooled_consistency_final.zip
+
+Experiment 1 N=454 reference:
+  reference_experiment1/ from football_gnn_experiment3_pooling_ablation_final.zip
+
+Raw data/cache files are intentionally excluded.

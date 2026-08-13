@@ -1,0 +1,28 @@
+{
+  "artifact": "Experiment 4 - Reduced-Feature Robustness",
+  "created_utc": "2026-08-07T18:25:20.456994+00:00",
+  "eligible_cohort_n": 757,
+  "paired_outer_test_n": 454,
+  "removed_features": [
+    "node: shot_count",
+    "node: shot_xg_sum",
+    "edge: key_pass_indicator"
+  ],
+  "retained_features": [
+    "node: completed_pass_count",
+    "node: ball_recovery_count",
+    "edge: pass_length",
+    "edge: pass_angle"
+  ],
+  "same_graph_topology": true,
+  "same_positional_pooling": true,
+  "same_history_features": true,
+  "frozen_folds": true,
+  "frozen_training_seeds": true,
+  "bootstrap_samples": 10000,
+  "primary_comparisons": [
+    "C-Hybrid-reduced vs A-MLP",
+    "C-Hybrid-reduced vs D-Aggregate-reduced",
+    "C-Hybrid-full vs C-Hybrid-reduced"
+  ]
+}

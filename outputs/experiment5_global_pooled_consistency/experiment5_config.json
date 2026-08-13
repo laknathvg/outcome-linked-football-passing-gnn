@@ -1,0 +1,114 @@
+{
+  "project": {
+    "name": "football-gnn-authoritative",
+    "seed": 42,
+    "output_dir": "outputs/experiment5_global_pooled_consistency",
+    "cache_dir": "/content/statsbomb_global_event_cache"
+  },
+  "cohort": {
+    "name": "global",
+    "mode": "all",
+    "competition_names": [],
+    "max_matches": null
+  },
+  "history": {
+    "window_matches": 3,
+    "group_by_competition": true
+  },
+  "graph": {
+    "node_count": 11,
+    "repeated_edge_policy": "parallel_event_edges",
+    "completed_pass_requires_null_outcome": true,
+    "role_template": [
+      3,
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "node_features": [
+      "completed_pass_count",
+      "shot_count",
+      "shot_xg_sum",
+      "ball_recovery_count"
+    ],
+    "edge_features": [
+      "pass_length",
+      "pass_angle",
+      "key_pass_indicator"
+    ],
+    "reduced_node_indices": [
+      0,
+      3
+    ],
+    "reduced_edge_indices": [
+      0,
+      1
+    ],
+    "standardize_node_features": true,
+    "standardize_edge_continuous_indices": [
+      0,
+      1
+    ],
+    "add_self_loops_in_gatv2": true
+  },
+  "model": {
+    "hidden_dim": 64,
+    "attention_heads": 4,
+    "attention_concat": false,
+    "role_embedding_dim": 8,
+    "graph_dropout": 0.3,
+    "classifier_dropout": 0.4,
+    "history_hidden_dim": 32,
+    "history_dropout": 0.2,
+    "pooling": "positional_add",
+    "output_logits": 2,
+    "fusion": {
+      "type": "static_sigmoid",
+      "initial_lambda": 0.5
+    }
+  },
+  "training": {
+    "optimizer": "Adam",
+    "learning_rate": 0.002,
+    "weight_decay": 0.0005,
+    "batch_size": 32,
+    "maximum_epochs": 50,
+    "early_stopping": {
+      "metric": "macro_f1",
+      "patience": 10,
+      "minimum_delta": 0.0001,
+      "restore_best_checkpoint": true
+    },
+    "loss": "CrossEntropyLoss"
+  },
+  "xgboost": {
+    "n_estimators": 100,
+    "max_depth": 4,
+    "learning_rate": 0.1,
+    "subsample": 1.0,
+    "colsample_bytree": 1.0,
+    "eval_metric": "logloss",
+    "n_jobs": -1
+  },
+  "validation": {
+    "strategy": "competition_aware_pooled_rolling_origin_40pct_initial_train",
+    "initial_train_fraction": 0.4,
+    "outer_folds": 5,
+    "inner_validation_fraction": 0.2,
+    "team_embargo_matches": 3,
+    "primary_metric": "macro_f1"
+  },
+  "experiments": {
+    "run_xgboost_history": true,
+    "run_history_mlp": true,
+    "run_structure_gnn": true,
+    "run_hybrid_full": true
+  }
+}

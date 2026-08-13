@@ -1,0 +1,11 @@
+statsbombpy
+torch
+torch-geometric
+xgboost
+scikit-learn
+pandas
+numpy
+PyYAML
+tqdm
+scipy
+pytest

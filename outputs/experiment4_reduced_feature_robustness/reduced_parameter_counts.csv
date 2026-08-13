@@ -1,0 +1,7 @@
+model,node_input_dim,edge_input_dim,trainable_parameters,aggregate_input_dim
+B-GNN-full,4,3,75298.0,
+B-GNN-reduced,2,2,73762.0,
+C-Hybrid-full,4,3,59333.0,
+C-Hybrid-reduced,2,2,57797.0,
+D-Aggregate-full,4,3,,7.0
+D-Aggregate-reduced,2,2,,4.0
