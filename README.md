@@ -64,11 +64,13 @@ The experiment runners were originally executed in Google Colab and contain pack
 
 ## Reproducibility artifact
 
-The immutable reproducibility artifact corresponding to version
-1.0.0 is archived on Zenodo:
+The revised reproducibility release (v2.0.0) is archived at:
 
-**DOI:** https://doi.org/10.5281/zenodo.21918636
+**https://doi.org/10.5281/zenodo.23262333**
 
+The original submitted-manuscript release (v1.0.0) remains available at:
+
+**https://doi.org/10.5281/zenodo.21918636**
 ## Development repository
 
 This repository is intended to match the methodology and results reported in the IEEE Access manuscript.
