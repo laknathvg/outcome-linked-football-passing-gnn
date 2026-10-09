@@ -1,0 +1,54 @@
+{
+  "experiment": "Experiment 6B - Global information-matched topology-free neural baseline",
+  "protocol_frozen_before_training": true,
+  "reviewer_target": "Reviewer 1 Comment 2",
+  "base_repository_commit": "e5fdb3ceafa08a82789264a8d57fe8f51a8daea1",
+  "topology_free_model_sha256": "bc8ff1a64620b01a3063fd208b4a0e5c527e47ec6b4e07f1d079d4650c83ab4a",
+  "architecture_status": "identical to successful Elite Phase 2A run",
+  "cohort": "global",
+  "claim_boundary": "heterogeneous pooled-cohort consistency; NOT unseen-competition or external transfer",
+  "expected_global_eligible_n": 3098,
+  "expected_paired_outer_test_n": 1745,
+  "expected_oof_competition_count": 11,
+  "primary_scientific_question": "Does adjacency-aware graph learning outperform an information-matched topology-free neural representation in the Global pooled cohort?",
+  "information_retained": [
+    "11 individual player feature vectors",
+    "completed-pass count",
+    "shot count",
+    "summed shot xG",
+    "ball recoveries",
+    "same broad role IDs",
+    "same 8-D learned role embeddings",
+    "every pass-event length",
+    "every pass-event angle",
+    "every pass-event key-pass indicator"
+  ],
+  "information_removed": [
+    "passer identity for each event",
+    "recipient identity for each event",
+    "source-destination pairing",
+    "GNN adjacency/message passing"
+  ],
+  "player_encoder": "shared MLP (4 + 8) -> 64 -> 64",
+  "player_pooling": "GK/DF/MF/FW additive pooling",
+  "pass_encoder": "shared MLP 3 -> 64 -> 64",
+  "pass_pooling": "permutation-invariant additive pooling",
+  "combined_representation_dim": 320,
+  "TF_NN_head": "320 -> 128 -> 2",
+  "TF_Hybrid_completed_match_head": "320 -> 64 -> 2",
+  "history_branch": "exact existing 16 -> 32 -> 2 HistoryMLP",
+  "fusion": "exact existing learned sigmoid scalar late fusion",
+  "primary_comparison": "C-Hybrid-full vs TF-Hybrid",
+  "secondary_comparisons": [
+    "B-GNN-full vs TF-NN",
+    "TF-Hybrid vs A-MLP"
+  ],
+  "bootstrap_samples": 10000,
+  "multiplicity": "Holm adjustment across the three new Experiment 6B McNemar tests",
+  "interpretation_rules": {
+    "graph_supported": "Graph-specific advantage is supported only if the paired confidence interval for the adjacency-aware model advantage excludes zero.",
+    "graph_inconclusive": "If the graph model has a positive point estimate but the CI crosses zero, report the advantage as suggestive but not established.",
+    "no_graph_requirement": "If topology-free and graph models perform similarly, conclude that graph learning is not shown to be necessary.",
+    "topology_free_better": "If topology-free model performs better, report the result without redesigning or retuning the baseline."
+  }
+}

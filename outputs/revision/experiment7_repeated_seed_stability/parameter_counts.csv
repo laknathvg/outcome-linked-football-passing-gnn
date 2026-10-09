@@ -1,0 +1,4 @@
+model,trainable_parameters
+A-MLP,610
+C-Hybrid-positional,59333
+C-Hybrid-globalmean,47045

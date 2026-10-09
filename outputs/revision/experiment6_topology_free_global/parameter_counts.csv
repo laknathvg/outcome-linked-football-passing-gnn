@@ -1,0 +1,5 @@
+model,trainable_parameters
+B-GNN-full,75298
+TF-NN,50786
+C-Hybrid-full,59333
+TF-Hybrid,30725

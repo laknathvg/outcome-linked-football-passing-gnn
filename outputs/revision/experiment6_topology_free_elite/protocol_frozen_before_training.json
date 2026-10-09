@@ -1,0 +1,47 @@
+{
+  "experiment": "Experiment 6 - Information-matched topology-free neural baseline",
+  "cohort": "elite",
+  "protocol_frozen_before_training": true,
+  "reviewer_target": "Reviewer 1 Comment 2",
+  "primary_scientific_question": "Does adjacency-aware graph learning outperform an information-matched topology-free neural representation?",
+  "topology_free_information_retained": [
+    "11 individual player feature vectors",
+    "completed-pass count",
+    "shot count",
+    "summed shot xG",
+    "ball recoveries",
+    "same broad role IDs",
+    "same 8-D learnable role embeddings",
+    "every pass-event length",
+    "every pass-event angle",
+    "every pass-event key-pass indicator"
+  ],
+  "information_deliberately_removed": [
+    "passer identity for each pass event",
+    "recipient identity for each pass event",
+    "source-destination pairing",
+    "adjacency/message passing"
+  ],
+  "player_encoder": "shared MLP: (4 + 8 role embedding) -> 64 -> 64",
+  "player_pooling": "same GK/DF/MF/FW role-aware additive pooling",
+  "pass_encoder": "shared MLP: 3 -> 64 -> 64",
+  "pass_pooling": "permutation-invariant additive set pooling",
+  "topology_free_representation_dim": 320,
+  "standalone_head": "320 -> 128 -> 2",
+  "hybrid_completed_match_head": "320 -> 64 -> 2",
+  "historical_branch": "exact existing HistoryMLP, 16 -> 32 -> 2",
+  "fusion": "exact static sigmoid-constrained scalar logit fusion",
+  "primary_comparison": "C-Hybrid-full vs TF-Hybrid",
+  "secondary_comparisons": [
+    "B-GNN-full vs TF-NN",
+    "TF-Hybrid vs A-MLP"
+  ],
+  "multiplicity": "Holm adjustment across the three Experiment 6 McNemar tests",
+  "bootstrap_samples": 10000,
+  "interpretation_rules": {
+    "graph_supported": "If adjacency-aware model advantage has paired CI above zero, report evidence for graph-specific benefit.",
+    "graph_inconclusive": "If point estimate favors graph model but CI crosses zero, report suggestive but unestablished graph-specific benefit.",
+    "no_graph_requirement": "If topology-free and graph models are similar, conclude rich completed-match information is useful but graph learning is not shown to be necessary.",
+    "topology_free_better": "If topology-free model performs better, report it without rerunning to obtain a preferred result."
+  }
+}

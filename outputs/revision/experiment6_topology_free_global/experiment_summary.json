@@ -1,0 +1,24 @@
+{
+  "experiment": "Experiment 6B - Global topology-free neural baseline",
+  "created_utc": "2026-09-28T18:17:15.796866+00:00",
+  "status": "completed",
+  "eligible_global_n": 3098,
+  "paired_oof_n": 1745,
+  "base_source_commit": "e5fdb3ceafa08a82789264a8d57fe8f51a8daea1",
+  "tf_source_sha256": "bc8ff1a64620b01a3063fd208b4a0e5c527e47ec6b4e07f1d079d4650c83ab4a",
+  "architecture_identical_to_elite": true,
+  "bootstrap_samples": 10000,
+  "seed_policy": "42 + 100*fold",
+  "topology_invariance": {
+    "passed": true,
+    "max_abs_logit_diff_destination_permutation": 0.0,
+    "max_abs_logit_diff_source_and_destination_permutation": 0.0,
+    "interpretation": "TF model output is invariant to graph rewiring when player features, roles, pass-event attributes and history remain fixed."
+  },
+  "primary_comparison": "C-Hybrid-full vs TF-Hybrid",
+  "secondary_comparisons": [
+    "B-GNN-full vs TF-NN",
+    "TF-Hybrid vs A-MLP"
+  ],
+  "claim_boundary": "Pooled heterogeneous Global evaluation only; not external validation or held-out competition."
+}

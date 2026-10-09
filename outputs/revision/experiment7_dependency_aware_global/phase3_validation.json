@@ -1,0 +1,11 @@
+{
+  "input_hash_verified": true,
+  "paired_oof_verified": true,
+  "paired_n": 1745,
+  "model_count": 5,
+  "competition_season_blocks": 20,
+  "competition_blocks": 11,
+  "bootstrap_resamples": 10000,
+  "no_model_retraining": true,
+  "no_prediction_changes": true
+}

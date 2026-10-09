@@ -1,0 +1,6 @@
+{
+  "passed": true,
+  "max_abs_logit_diff_destination_permutation": 0.0,
+  "max_abs_logit_diff_source_and_destination_permutation": 0.0,
+  "interpretation": "Topology-free model output is invariant to within-graph rewiring when node features, roles, pass-event attributes and history are fixed."
+}

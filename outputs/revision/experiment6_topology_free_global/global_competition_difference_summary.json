@@ -1,0 +1,8 @@
+{
+  "competition_count": 11,
+  "positive_graph_delta_competitions": 7,
+  "negative_graph_delta_competitions": 4,
+  "zero_delta_competitions": 0,
+  "mean_graph_minus_tf_hybrid_pp": 0.6446802507159223,
+  "median_graph_minus_tf_hybrid_pp": 2.205926830833671
+}

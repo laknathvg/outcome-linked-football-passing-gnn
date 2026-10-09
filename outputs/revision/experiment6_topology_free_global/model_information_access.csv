@@ -1,0 +1,6 @@
+model,individual_player_features,role_information,individual_pass_event_attributes,exact_adjacency,history
+D-Aggregate-full,False,False,False,False,False
+TF-NN,True,True,True,False,False
+B-GNN-full,True,True,True,True,False
+TF-Hybrid,True,True,True,False,True
+C-Hybrid-full,True,True,True,True,True

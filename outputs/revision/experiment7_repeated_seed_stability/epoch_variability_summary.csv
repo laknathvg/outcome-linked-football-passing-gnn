@@ -1,0 +1,6 @@
+cohort,model,selection_count,best_epoch_mean,best_epoch_sd,best_epoch_min,best_epoch_max
+elite,A-MLP,25,4.12,2.242022896106698,1,10
+elite,C-Hybrid-globalmean,25,11.36,6.237520875048569,3,33
+elite,C-Hybrid-positional,25,12.44,9.009624483480614,4,43
+global,A-MLP,25,5.72,7.368401002478986,1,32
+global,C-Hybrid-positional,25,14.4,10.950646860650137,2,44

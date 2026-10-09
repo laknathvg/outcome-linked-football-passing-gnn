@@ -1,0 +1,46 @@
+{
+  "phase": "Phase 3 - dependency-aware inference",
+  "created_utc": "2026-09-28T18:40:20.185470+00:00",
+  "input_artifact": "IEEE_Access_R1_Exp6_Topology_Free_GLOBAL.zip",
+  "input_combined_predictions_sha256": "d5df0e00932a375dc7faa998778c85d944436d43267257c269a225355c689aab",
+  "paired_oof_n": 1745,
+  "primary_metric": "macro F1 difference",
+  "reference_inference": "paired individual-match bootstrap (iid-style reference only)",
+  "primary_dependency_aware_method": "paired competition-season cluster bootstrap",
+  "primary_block_definition": "competition_id x season_id",
+  "primary_block_count": 20,
+  "secondary_dependency_aware_method": "paired competition-level cluster bootstrap",
+  "secondary_block_definition": "competition_id",
+  "secondary_block_count": 11,
+  "bootstrap_resamples": 10000,
+  "cluster_resampling_rule": "sample whole clusters with replacement; include all matches in every selected cluster; use the same sampled clusters for both models within each paired comparison",
+  "confidence_interval": "percentile 95% bootstrap interval",
+  "comparisons": [
+    {
+      "model_a": "C-Hybrid-full",
+      "model_b": "A-MLP",
+      "label": "C-Hybrid-full vs A-MLP",
+      "role": "original_main_global_comparison"
+    },
+    {
+      "model_a": "C-Hybrid-full",
+      "model_b": "TF-Hybrid",
+      "label": "C-Hybrid-full vs TF-Hybrid",
+      "role": "graph_specific_comparison"
+    },
+    {
+      "model_a": "TF-Hybrid",
+      "model_b": "A-MLP",
+      "label": "TF-Hybrid vs A-MLP",
+      "role": "topology_free_complementarity"
+    },
+    {
+      "model_a": "B-GNN-full",
+      "model_b": "TF-NN",
+      "label": "B-GNN-full vs TF-NN",
+      "role": "standalone_graph_specific_comparison"
+    }
+  ],
+  "interpretation_rule": "If dependency-aware intervals are wider or cross zero when the match-level interval does not, report that inferential support is sensitive to the assumed dependence structure. Do not hide or replace the dependency-aware result.",
+  "limitation": "Cluster bootstrap addresses within-block dependence but cannot model every possible cross-season or cross-competition dependency."
+}

@@ -1,0 +1,4 @@
+cohort,model,gate_observation_count,gate_mean,gate_sd,gate_min,gate_max,interpretation_note
+elite,C-Hybrid-globalmean,25,0.4827562141418457,0.006249262348821222,0.4701340794563293,0.4980800151824951,Fusion coefficient only; must not be interpreted as percentage modality importance.
+elite,C-Hybrid-positional,25,0.48093318939208984,0.008753796031902133,0.4576286673545837,0.495846152305603,Fusion coefficient only; must not be interpreted as percentage modality importance.
+global,C-Hybrid-positional,25,0.474597407579422,0.014740215378582602,0.4330288171768188,0.4904311001300812,Fusion coefficient only; must not be interpreted as percentage modality importance.

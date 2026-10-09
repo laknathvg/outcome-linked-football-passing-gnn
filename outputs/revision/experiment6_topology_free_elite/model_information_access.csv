@@ -1,0 +1,6 @@
+model,individual_player_features,role_information,individual_pass_event_attributes,exact_passer_recipient_adjacency,historical_context,note
+D-Aggregate-full,False,False,False,False,False,Seven summed completed-match features
+TF-NN,True,True,True,False,False,Information-matched topology-free neural control
+B-GNN-full,True,True,True,True,False,Submitted graph-only comparator
+TF-Hybrid,True,True,True,False,True,Topology-free completed-match NN plus exact A-MLP
+C-Hybrid-full,True,True,True,True,True,Submitted late-fusion GNN

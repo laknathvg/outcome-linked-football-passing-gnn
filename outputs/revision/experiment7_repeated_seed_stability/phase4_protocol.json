@@ -1,0 +1,74 @@
+{
+  "phase": "Phase 4 - repeated-training-seed variability",
+  "created_utc": "2026-09-28T20:26:36.273046+00:00",
+  "repository_commit": "e5fdb3ceafa08a82789264a8d57fe8f51a8daea1",
+  "seed_schedule_count": 5,
+  "seed_schedules": {
+    "S0": [
+      142,
+      242,
+      342,
+      442,
+      542
+    ],
+    "S1": [
+      1142,
+      1242,
+      1342,
+      1442,
+      1542
+    ],
+    "S2": [
+      2142,
+      2242,
+      2342,
+      2442,
+      2542
+    ],
+    "S3": [
+      3142,
+      3242,
+      3342,
+      3442,
+      3542
+    ],
+    "S4": [
+      4142,
+      4242,
+      4342,
+      4442,
+      4542
+    ]
+  },
+  "S0": "exact frozen original submitted predictions; not retrained",
+  "S1_to_S4": "four additional complete retraining schedules",
+  "elite_models": [
+    "A-MLP",
+    "C-Hybrid-positional",
+    "C-Hybrid-globalmean"
+  ],
+  "global_models": [
+    "A-MLP",
+    "C-Hybrid-positional"
+  ],
+  "elite_oof_n_per_model_per_schedule": 454,
+  "global_oof_n_per_model_per_schedule": 1745,
+  "early_stopping": "reselected independently for every new seed, fold and model using frozen inner chronological validation",
+  "preprocessing": "refit only on corresponding frozen training partition for each fold; unchanged across seed schedules",
+  "primary_training_variability_questions": [
+    "Elite C-Hybrid-positional vs A-MLP",
+    "Global C-Hybrid-positional vs A-MLP",
+    "Elite C-Hybrid-positional vs C-Hybrid-globalmean"
+  ],
+  "summary_statistics": [
+    "mean",
+    "sample standard deviation",
+    "median",
+    "minimum",
+    "maximum",
+    "range",
+    "effect direction count"
+  ],
+  "inference_note": "Five-seed analysis is descriptive training-stability analysis; it is not treated as a new hypothesis-test family.",
+  "claim_rule": "Report all five schedules. Do not select, discard, or rerun seeds because of performance direction."
+}

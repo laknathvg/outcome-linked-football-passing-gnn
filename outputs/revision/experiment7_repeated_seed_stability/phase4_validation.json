@@ -1,0 +1,15 @@
+{
+  "repository_commit_verified": true,
+  "elite_seed_schedules": 5,
+  "global_seed_schedules": 5,
+  "elite_oof_n": 454,
+  "global_oof_n": 1745,
+  "same_folds_across_seeds": true,
+  "same_features_across_seeds": true,
+  "same_architecture_across_seeds": true,
+  "same_optimizer_across_seeds": true,
+  "same_test_observations_across_seeds": true,
+  "early_stopping_reselected_for_new_seeds": true,
+  "new_seed_schedules_trained": 4,
+  "frozen_original_schedule_included": true
+}

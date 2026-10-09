@@ -1,0 +1,16 @@
+cohort,seed_schedule,seed_schedule_index,comparison,comparison_role,model_a,model_b,model_a_macro_f1,model_b_macro_f1,macro_f1_difference_pp,accuracy_difference_pp
+elite,S0,0,C-Hybrid-positional vs A-MLP,main_hybrid_comparison,C-Hybrid-positional,A-MLP,0.7282397503581732,0.6962202132387776,3.2019537119395647,3.3039647577092546
+elite,S1,1,C-Hybrid-positional vs A-MLP,main_hybrid_comparison,C-Hybrid-positional,A-MLP,0.7207108680792891,0.6959408304699785,2.4770037609310624,2.643171806167399
+elite,S2,2,C-Hybrid-positional vs A-MLP,main_hybrid_comparison,C-Hybrid-positional,A-MLP,0.6761973149868757,0.7156258649069906,-3.942854992011491,-3.964757709251099
+elite,S3,3,C-Hybrid-positional vs A-MLP,main_hybrid_comparison,C-Hybrid-positional,A-MLP,0.7083278161122473,0.6923984304550218,1.5929385657225459,1.7621145374449365
+elite,S4,4,C-Hybrid-positional vs A-MLP,main_hybrid_comparison,C-Hybrid-positional,A-MLP,0.7194135022945044,0.7040186824948915,1.539481979961288,1.541850220264318
+elite,S0,0,C-Hybrid-positional vs C-Hybrid-globalmean,pooling_ablation,C-Hybrid-positional,C-Hybrid-globalmean,0.7282397503581732,0.6870161238326216,4.122362652555167,3.7444933920704915
+elite,S1,1,C-Hybrid-positional vs C-Hybrid-globalmean,pooling_ablation,C-Hybrid-positional,C-Hybrid-globalmean,0.7207108680792891,0.7146949214468397,0.601594663244942,0.6607929515418443
+elite,S2,2,C-Hybrid-positional vs C-Hybrid-globalmean,pooling_ablation,C-Hybrid-positional,C-Hybrid-globalmean,0.6761973149868757,0.731288673661555,-5.509135867467929,-5.726872246696035
+elite,S3,3,C-Hybrid-positional vs C-Hybrid-globalmean,pooling_ablation,C-Hybrid-positional,C-Hybrid-globalmean,0.7083278161122473,0.7148744921790671,-0.6546676066819801,-0.6607929515418554
+elite,S4,4,C-Hybrid-positional vs C-Hybrid-globalmean,pooling_ablation,C-Hybrid-positional,C-Hybrid-globalmean,0.7194135022945044,0.7282508723009767,-0.8837370006472334,-0.8810572687224627
+global,S0,0,C-Hybrid-positional vs A-MLP,main_hybrid_comparison,C-Hybrid-positional,A-MLP,0.7041957690035943,0.6654453273118464,3.8750441691747906,3.151862464183375
+global,S1,1,C-Hybrid-positional vs A-MLP,main_hybrid_comparison,C-Hybrid-positional,A-MLP,0.7108630342184322,0.6527228738246026,5.814016039382963,5.214899713467047
+global,S2,2,C-Hybrid-positional vs A-MLP,main_hybrid_comparison,C-Hybrid-positional,A-MLP,0.7095223713077897,0.6559654471544716,5.355692415331815,4.641833810888252
+global,S3,3,C-Hybrid-positional vs A-MLP,main_hybrid_comparison,C-Hybrid-positional,A-MLP,0.6980537930365838,0.6472244759972955,5.082931703928828,4.813753581661895
+global,S4,4,C-Hybrid-positional vs A-MLP,main_hybrid_comparison,C-Hybrid-positional,A-MLP,0.6977749968714804,0.6644681995428263,3.3306797328654048,3.03724928366762

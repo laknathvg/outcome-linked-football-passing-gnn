@@ -1,0 +1,18 @@
+{
+  "experiment": "Experiment 6 - topology-free neural baseline",
+  "cohort": "elite",
+  "eligible_n": 757,
+  "paired_oof_n": 454,
+  "source_commit": "e5fdb3ceafa08a82789264a8d57fe8f51a8daea1",
+  "device": "cuda",
+  "bootstrap_samples": 10000,
+  "fold_seed_policy": "42 + 100*fold",
+  "topology_invariance_test": {
+    "passed": true,
+    "max_abs_logit_diff_destination_permutation": 0.0,
+    "max_abs_logit_diff_source_and_destination_permutation": 0.0,
+    "interpretation": "Topology-free model output is invariant to within-graph rewiring when node features, roles, pass-event attributes and history are fixed."
+  },
+  "created_utc": "2026-09-28T16:29:16.002169+00:00",
+  "claim_boundary": "This experiment tests whether adjacency-aware graph learning adds predictive information beyond an information-matched topology-free neural representation. Interpretation is determined by the frozen comparison rules, not by a desired direction of result."
+}

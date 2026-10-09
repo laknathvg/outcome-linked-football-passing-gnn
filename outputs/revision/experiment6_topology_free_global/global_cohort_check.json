@@ -1,0 +1,18 @@
+{
+  "eligible_global_n": 3098,
+  "expected_eligible_global_n": 3098,
+  "paired_oof_n": 1745,
+  "expected_paired_oof_n": 1745,
+  "frozen_base_commit": "e5fdb3ceafa08a82789264a8d57fe8f51a8daea1",
+  "topology_free_sha256": "bc8ff1a64620b01a3063fd208b4a0e5c527e47ec6b4e07f1d079d4650c83ab4a",
+  "folds": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "topology_invariance_passed": true,
+  "claim_boundary": "Global is a heterogeneous pooled-cohort consistency evaluation and not an unseen-competition transfer test.",
+  "oof_competition_count": 11
+}
