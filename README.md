@@ -1,7 +1,9 @@
-# Outcome-Linked Post-Match Classification of Football Passing Networks Using a Hybrid Late-Fusion Graph Neural Network
+# Completed-Match Representations and Historical Context for Retrospective Football Outcome Classification: A Controlled Graph and Topology-Free Evaluation
 
-This repository contains the implementation and reproducibility materials for the study
-**“Outcome-Linked Post-Match Classification of Football Passing Networks Using a Hybrid Late-Fusion Graph Neural Network.”**
+
+This repository contains the implementation and reproducibility materials for the revised IEEE Access study:
+
+**“Completed-Match Representations and Historical Context for Retrospective Football Outcome Classification: A Controlled Graph and Topology-Free Evaluation.”**
 
 ## Authors
 
@@ -22,13 +24,15 @@ The framework is not a pre-match forecasting system, a causal measure of tactica
 
 Raw event data are obtained from StatsBomb Open Data and are not redistributed in this repository. The repository includes code, cohort/sample manifests, fold assignments, out-of-fold predictions, statistical outputs, and reproducibility metadata.
 
-## Final experiments
+## Experiments
 
-1. Elite complementarity evaluation — `run_final_rolling_origin.py`
-2. Matched destination-permutation topology control — `run_experiment2_topology.py`
-3. Positional-pooling vs global-mean pooling ablation — `run_experiment3_pooling.py`
-4. Reduced-feature robustness analysis — `run_experiment4_reduced.py`
-5. Global pooled-consistency evaluation — `run_experiment5_global.py`
+1. Elite completed-match/history complementarity.
+2. Matched destination-permutation topology control.
+3. Positional versus global-mean pooling sensitivity.
+4. Outcome-adjacent feature ablation.
+5. Global pooled complementarity and heterogeneity.
+6. Topology-free neural controls in Elite and Global.
+7. Dependency-aware and repeated-training-seed robustness analyses.
 
 ## Key cohort counts
 
@@ -68,3 +72,12 @@ The immutable reproducibility artifact corresponding to version
 ## Development repository
 
 This repository is intended to match the methodology and results reported in the IEEE Access manuscript.
+
+## Revision
+
+Version 2.0.0 corresponds to the revised IEEE Access manuscript
+Access-2026-42462.
+
+The revision adds topology-free neural controls, dependency-aware
+block-bootstrap sensitivity analyses, repeated-training-seed analyses,
+and revised interpretation of graph topology and positional pooling.
